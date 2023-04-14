@@ -6,14 +6,14 @@ Test,เทส
 
 #Human,มนุษย์
 #Elf,เอลฟ์
-#Dwarf,Dwarf
-#Neko,Neko
-#Inu,Inu
-#Usagi,Usagi
-#Hitsuji,Hitsuji
-#Dragonian,Dragonian
-#Furry,Furry
-#SmallFurry,Small Furry
+#Dwarf,คนแคระ
+#Neko,แมว
+#Inu,หมา
+#Usagi,กระต่าย
+#Hitsuji,แกะ
+#Dragonian,มังกร
+#Furry,หมาป่า
+#SmallFurry,สัตว์เล็ก
 #Goblin,Goblin
 #Orc,Orc
 #Werewolf,Werewolf
