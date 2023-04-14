@@ -1,0 +1,1857 @@
+#Language,ภาษาไทย
+#Location,TH
+#Image,th  
+None,None
+Test,เทส
+
+#Human,มนุษย์
+#Elf,เอลฟ์
+#Dwarf,Dwarf
+#Neko,Neko
+#Inu,Inu
+#Usagi,Usagi
+#Hitsuji,Hitsuji
+#Dragonian,Dragonian
+#Furry,Furry
+#SmallFurry,Small Furry
+#Goblin,Goblin
+#Orc,Orc
+#Werewolf,Werewolf
+#Minotaur,Minotaur
+#Salamander,Salamander
+#Client,Client
+
+#Monster,Monster
+#Slave,Slave
+#Room,Room
+#Consumable,Consumable
+
+// Room
+#BreedingRoom,Breeding Room
+#FemaleSlaveCage,Slave Cage
+#SlaveCage,Slave Cage
+#Altar,Altar
+#Blacksmith,Blacksmith
+#Laboratory,Laboratory
+#Library,Library
+#Market,Market
+#Mercenary,Mercenary
+#Warehouse,Warehouse
+#Morgue,Morgue
+#DrawingRoom,Drawing Room
+#DeliveryRoom,Delivery Room
+#FrontDoor,Front Door
+#BackDoor,Back Door
+#MonsterCage,Monster Cage
+#GloryHole,Glory Hole
+#WaitingPlace,Waiting Place
+#RationDistribution,Automatic Ration Distribution
+#ShowerRoom,Shower Room
+#ShowerRoom2,Shower Room
+#Bathroom,Bathroom
+#AutomaticDeliveryRoom,Automatic Delivery Room
+#MilkingRoom,Milking Room
+#AutomaticMilkingRoom,Automatic Milking Room
+#Carriage,Carriage
+#ShowerRoomGround,Shower Room
+#BathroomGround,Automatic Bathroom
+#KokiRoom,Paizuri Room
+#Stall,Bestiality Show
+#BirthShowRoom,Birth Show
+#VipRoom,VIP Room
+#VvipRoom,VVIP Room
+#BreedingRoom2,Big Breeding Room
+#MonsterCage2,Big Monster Cage
+
+// Room Information
+#BreedingRoomText,Facility for breeding monsters and slaves.
+#SlaveCageText,Female Slave Cage, can accommodate up to five slave.
+#MonsterCageText,Monster Cage, can accommodate up to five monsters.
+#BackDoorText,Dangerous deal is being made.
+#DeliveryRoomText,Place pregnant slaves and give birth.
+#MorgueText,Corpses placed within are sealed.
+#CarriageText,You can sell slaves or monsters.
+#GrowthCapsuleText,Device that corrects the appearance of a slave.<BR>One part of the slave's appearance can be randomly changed.
+#AppearanceCapsuleText,Device that corrects the appearance of a monster.<BR>One part of the monster's appearance can be randomly changed.
+#RationDistributionText,Facility that automatically distributes food
+#ShowerRoomText,Facility that restores the cleanliness
+#BathroomText,Facility that automatically restores the cleanliness
+#AutomaticDeliveryRoomText,Facility that automatically gives birth
+#MilkingRoomText,Facility that milks
+#AutomaticMilkingRoomText,Facility that milks and automatically distributes milks
+#ServiceRoomText,Facility for paizuri<BR>Usage fee by race <sprite index=1> +30
+
+// Menu
+#Menu,MENU
+#Start,START
+#Story,STORY
+#Option,OPTION
+#Sponsor,SPONSOR
+#Save,SAVE
+#Load,LOAD
+#Config,OPTION
+#Sound,SOUND
+#ToTitle,TO TITLE
+#Empty,EMPTY
+#Back,BACK
+#Exit,EXIT
+#FullScreen,FULL SCREEN
+#Window,WINDOW
+#Special,ENTER CODE
+#AutoSave,AutoSave
+#Free_Mode,FreeMode
+#Master_Volume,MASTER VOLUME
+#Music_Volume,MUSIC VOLUME
+#Effects_Volume,EFFECTS VOLUME
+#LanguageTitle,LanguageTitle
+#FrameText0,VSYNC ON
+#FrameText1,VSYNC OFF
+#FrameText2,LIMIT FPS 60
+#FrameText3,LIMIT FPS 30
+
+#EnterCode,Please enter pass code.
+
+// Scroll
+#Building,Underground Construction
+#BuildingGround,Ground Construction
+#Inventory,Inventory
+
+// Room
+#Room Effect,Room Effect
+#Demolish,Demolish
+
+#Time Limit Text,Time Limit<BR>{0}/{1}Day({2}/{3}Second)
+#EventTimeText,{0:0.0} Day
+#Payment_Text,Payments paid {0}/{1}
+#MarketRate,MarketRate {0}%
+
+#First Page,First Page
+#Middle Page,{0} Page
+#Last Page,Last Page
+
+#MentalityText,Health <color=#8888FF>{0}/{1}</color>
+#MaxMentalityText,{0}<BR>Max Health <color=#8888FF>{1}</color>
+#Sex Count Text,Sex experience <color=#8888FF>{0}time</color>
+#Virgin,<color=#8888FF>Virgin</color>
+#Birth Count Text,Birth experience <color=#8888FF>{0}time</color>
+#Max Birth Count Text,Pregnancy possibility <color=#8888FF>{0}time</color>
+#Venereal Disease Resistance Text,STD Resistance <color=#8888FF>{0}%</color>
+#Conception Rate Text,Conception Rate <color=#8888FF>{0}%</color>
+#Conception Rate Text2,Conception Rate <color=#8888FF>{0}%</color><color=#88FF88>+{1}%</color>
+#Market Value Text,<sprite index=1> {0} â–¶ <color=#8888FF>{1}</color>
+#SellingPrice,<sprite index=1> {0}
+#Buying Price,<sprite index=1> {0}
+#Exchange Gold For Food,<sprite index=1> {0} â–¶ <sprite index=0> 100
+#Exchange Gold For Mana,<sprite index=1> {0} â–¶ <sprite index=2> 100
+#Changing Appearance Capsule Current Progress,Completion time<BR>{0} / {1}
+#Changing Appearance Capsule Complete Progress,Complete
+#Maintenance Cost Value,<sprite index=0><color=#8888FF>{0}</color>consumption per day
+#Hunger_Text,{0}<BR><sprite index=0><color=#8888FF>{0}</color>consumption per day
+#Decay,It's decaying.
+
+// Warning
+#Full_Shelf,The shelf is full.
+#No_Cosmetic_Pill,There is no cosmetic potion that you can buy.
+#Payment_failure_Text,Couldn't meet the payment.
+#Cannot_Demolish_Text,Can't be demolished.
+#Lack_of_gold,Not enough Gold.
+#No_Gold,Not enough Gold.
+#No_Point,Not enough Points.
+#Cannot_Sell,Can't sell.
+#No_Seat,No empty place.
+#No_Baby,Not a baby.
+#No_Adult,Not an adult.
+#No_Corpse,Not a corpse.
+#No_NewbornBaby,Not a newborn baby.
+#Full_Room,Room is full.
+#Cannot_Build,Location that cannot be built
+#No_Pregnant,Not pregnant.
+#No_BreedingRoom,Not a Breeding Room.
+#Cannot_Allocate,Can't be placed.
+#Cannot_Allocate_Yet,Can't place yet.
+#Cannot_Allocate_Corpse,Corpse can't be placed.
+#No_Female_Slave_Cage,Slaves were released because there were no Slave Cages.
+#No_Monster_Cage,Monster were released because there were no Monster Cages.
+#EnteredCode,This code has already been entered.
+#No_Monster,Not a monster.
+#No_Slave,Not a slave.
+#Not_Character,Not a slave or monster.
+#Already_Been_Applied,This effect has already been applied.
+#No_Elf,Not an Elf.
+#No_Unit,No slaves or monsters.
+#Not_Your_Slave,Not your slave.
+#Not_Your_Monster,Not your monster.
+#Not_Apply,Doesn't apply.
+#Not_Yet,Not available yet.
+#No_Tattoo,No Tattoo.
+#Full_Health,Full Health.
+#Remove_Tattoo,Remove Tattoo.
+#Recover_Health,Recover Health.
+#Full_Milk,Full Milk.
+#Recover_Milk,Give max Milk.
+#No_Venereal_Disease,No STD.
+#Recover_Venereal_Disease,Cure STD.
+#Recover_Birth_Count,Reset Birth Count.
+#NoMoveBirth,Cannot move during birth.
+#Already_Upgraded,It's already upgraded.
+#No_Achievement_Point,Not enough Points.
+#Not_Milk_NewbornBaby,Newborn babies cannot be fed breast milk.
+#No_Dna,No DNA.
+#No_Upgraded,You need to upgrade.
+#No_Cage,There are no cages to move.
+#NotMovePlayer,The player cannot be moved.
+#UnableToTurnOffPaymentList,You cannot turn off the payment list on the payment day.
+#NoRepay,Not enough money to repay.
+#WarningGameOver,You currently have negative Gold. Amilia will not tolerate this, so you have no choice but to borrow money.
+#IsCustomizing,Only one production is possible at a time.
+#No_Product_In_Market,There are no products in the market.
+#No_Save,Failed to save.
+#No_Dismantling,Cannot be dismantled.
+#No_Sell_Player,Player cannot be sold.
+#Can_Only_Upgrade_Day,You can only upgrade at day.
+#Can_Only_Upgrade_Night,You can only upgrade at night.
+#No_Sex,These characters can't breed together.
+
+// LogMessage
+#LogMessage_Dead,Slave(<color=#E07369>{0}</color>) is dead.
+#LogMessage_Dead_bady,Baby(<color=#E07369>{0}</color>) is dead.
+#LogMessage_Slave_Venereal_Disease,Slave(<color=#E07369>{0}</color>) has a Venereal Disease.
+#LogMessage_Slave_Venereal_Disease,Slave(<color=#E07369>{0}</color>) has an STD.
+#LogMessage_Monster_Venereal_Disease,Monster(<color=#E07369>{0}</color>) has an STD.
+#LogMessage_Client_Venereal_Disease,Client(<color=#E07369>{0}</color>) has an STD.
+#LogMessage_Infected,Room(<color=#E07369>{0}</color>) is contaminated.
+#LogMessage_Customize,The production(<color=#63E057>{0}</color>) is completed.
+#Number_Of_Name,{0} {1}x
+#Be_Pregnant,{0} is pregnant.
+#Give_Birth,{0} has given birth.
+#Have_Venereal_Disease,{0} has an STD.
+#Be_Infertile,{0} is now sterile.
+
+// Amilia
+#Not_Now,Not now.
+#Not_Day,Come again during the day.
+#Not_Night,Come again during the night.
+#Not_Need,That's not what I want now.
+#Good,Good.
+#Today_Market_Rate,Today's market price.
+#Not_Need_Corpse,I don't accept corpses.
+#Market_Value_Text,Do you want to see the market price?
+#Dispose_Corpse,Corpse disposal is <sprite index=1> {0} per head.
+#DisposeInfertileMonster,Useless monster disposal is <sprite index=1> {0} per head.
+#Low_Price,Are you selling low? That's good for me.
+#Middle_Price,Thank you, as always~
+#High_Price,...That's a high price.
+#DragAndDrop,<color=#8888FF>Drag & Drop</color> please.
+
+// UI
+Day{0},{0}Day
+{0}Day,{0}Day
+{0:0.0}Day,{0:0.0}Day
+#MonsterPrice,Monster Price
+#SlavePrice,Slave Price
+#GoblinPrice,Goblin
+#Button_Close,Close
+#Button_OK,OK
+#CardName,{0}{1}Number
+#GoldText,Gold
+#PaymentText,Payment
+#PaymentDayText,Payment Day
+#DayText,{0} days
+#WorkforceText,Get 1 in {0} seconds.
+#MarketRateLabel,Market Rate
+#SellText,Sell
+#CallMonsterText,Call Dealer Again
+#CallSlaveText,Call Slave
+#WindowDemolitionTitle,Demolition
+#WindowDemolitionText,Are you sure you want to remove it?
+#Button_Yes,Yes
+#Button_No,No
+#CancelConstruction,Cancel Construction
+#ReputationText,Reputation Lv.{0}
+#WarehouseTitle,Warehouse
+#FloraActionButton,Dismantle
+
+#SlaveTitText0,Flat Chest
+#SlaveTitText1,Small Tits
+#SlaveTitText2,Average Tits
+#SlaveTitText3,Large Tits
+#SlaveTitText4,Huge Tits
+
+#MonsterBodyText1,Good
+#MonsterBodyText2,Bad
+
+#MonsterPenisText1,Small
+#MonsterPenisText2,Big
+
+#MonsterBallText1,Small
+#MonsterBallText2,Big
+
+#Input_Name,Input name, please.
+#Input_PlayerName,Input player's name, please.
+#Input_EstateName,กรุณาใส่ชื่อที่ดิน ของคุณ
+
+// Status
+#Name,Name
+#Race,Race
+#Family_Tree,Family Tree
+#Current_State,Current State
+#GrowthState,Growth State
+#Sterility,Sterility
+#ErectileDysfunction,ED
+#Eunuch,Eunuch
+#Hunger,Hunger
+#Venereal Disease,STD
+#Venereal_Disease,STD
+#Food_Consumption,Maintenance Cost (day)
+#Conception_Rate,Conception Rate
+#HungerValue,Health Consumed During Hunger (day)
+#MentalityConsumedDuringPregnancy,Health Consumed During Pregnancy (sec)
+#Venereal_Disease_Resistance,STD Resistance Rate
+#BirthCount,Birth Count
+#Postpartum_Time,Break Time After Birth
+#Sex_Time,Sex Time
+#ValueToDecreaseMentality,Slave's Health Consumed During Sex (sec)
+#Growth_Time,Baby Growth Time
+#Soul,Soul
+#BreastMilk,Breast Milk
+#MultipleFetuses,Max Concurrent Fetuses
+
+#Tits_Type,Tits Size
+#Body_Type,Body Size
+#MonsterBodyType,Body Type
+#Eye_Color_Type,Eye Color
+#Hair_Color_Type,Hair Color
+#SkinColorType,Skin Color
+#FirstSexPartner,First Partner
+#FirstSexPartnerRace,Tattooed By
+#Sex_Count,Sex Experience
+#SexPartnerCount,Unique Partners
+#Charm_Type,Charm
+#Creampie,Creampie Count
+#FirstPartner,First Creampie
+
+#SkinCondition,Skin Condition
+#BodyCondition,Body Condition
+#PenisType,Penis Size
+#BallsType,Ball Size
+
+#Price,Price
+
+#SecondFormat,{0:0}s
+#Percent,{0:0}%
+#Small,Small
+#Medium,Medium
+#Large,Large
+#Thick,Thick
+#Thin,Thin
+#Nobody,Nobody
+#Unknown,Unknown
+#FamilyTreeFarther,Father: {0}
+#FamilyTreeMother,Mother: {0}
+#Baby,Baby
+#Adult,Adult
+#Child,Loli
+
+#Amilia,เอมิเลีย
+#Flora,Flora
+#Niel,Noel
+#SenaLena,Sena & Lena
+#Locked,Locked
+
+#Sylvia,Sylvia
+#SylviaPartner,Kenneth
+#SylviaFamilyTree,Father: Unknown<BR>Mother: Unknown
+#Claire,Claire
+#ClaireFamilyTree,Father: Unknown<BR>Mother: Unknown
+#Aure,Suki
+#AureFamilyTree,Father: Gimli<BR>Mother: Unknown
+#Karen,Karen
+#KarenFamilyTree,Father: Unknown<BR>Mother: Unknown
+#Vivi,Serena
+#Bella,Chris
+
+#Tab_Status,Status
+#Tab_Trait,Trait
+#Tab_MarketRate,Market Rate
+#Tab_Buyer,Buyer
+
+#BuyerRate,Selling Price<BR>+{0}%
+
+#Color,Color
+#Color_Random,Random
+#Color_Brown,Brown
+#Color_Yellow,Yellow
+#Color_Black,Black
+#Color_White,White
+#Color_Beige,Beige
+#Color_Gold,Gold
+#Color_Green,Green
+#Color_Lime,Lime
+#Color_Orange,Orange
+#Color_Gray,Gray
+#Color_DarkGold,Dark Gold
+#Color_SandyBrown,Sandy Brown
+#Color_Blue,Blue
+#Color_Red,Red
+#Color_Aqua,Aqua
+#Color_LightGreen,Light Green
+#Color_Cyan,Cyan
+#Color_Purple,Purple
+#Color_Pink,Pink
+
+#Appearance_SkinCondition,Skin Condition
+#Appearance_Body,Body
+#Appearance_SkinColor,Skin Color
+#Appearance_ScaleColor,Scale Color
+#Appearance_HairColor,Hair Color
+#Appearance_EyeColor,Eye Color
+#Appearance_ChestHair,Chest Hair
+#Appearance_ArmHair,Arm Hair
+#Appearance_LegHair,Leg Hair
+#Appearance_PubicHair,Pubic Hair
+#Appearance_Hair,Hair
+#Appearance_Penis,Penis
+#Appearance_Ball,Balls
+#Appearance_Ear,Ear
+#Appearance_EarHair,Ear Hair
+#Appearance_Nose,Nose
+#Appearance_Horn,Horn
+#Appearance_HornColor,Horn Color
+#Appearance_Beard,Beard
+#Appearance_Tooth,Teeth
+#Appearance_Figure,Figure
+#Appearance_Tail,Tail
+
+#Appearance_Tits,Tits
+#Appearance_EyeBall,Iris
+#Appearance_Eye,Eye Shape
+#Appearance_HairFront,Hair Front
+#Appearance_HairSide,Hair Side
+#Appearance_HairBack,Hair Back
+
+#RaceHumanText,Human
+#RaceElfText,Elf
+#RaceDwarfText,Dwarf
+#RaceNekoText,Cat
+#RaceInuText,Fox
+#RaceUsagiText,Rabbit
+#RaceHitsujiText,Sheep
+#RaceDragonianText,Dragonian
+#RaceSuccubusText,Succubus
+#RaceGoblinText,Goblin
+#RaceOrcText,Orc
+#RaceWerewolfText,Werewolf
+#RaceHorseText,Horse
+#RaceMinotaurText,Minotaur
+
+#Test_Toggle,TEST<BR>TOGGLE
+#Test_Resources,Resources
+#Test_ReputationUp,Reputation<BR>+10
+#Test_ReputationDown,Reputation<BR>-10
+#Test_RaceTrait1,Race<BR>Trait1
+#Test_RaceTrait2,Race<BR>Trait2
+#Test_Trait1,Trait1
+#Test_Trait2,Trait2
+#Test_Trait3,Trait3
+#Test_Trait4,Trait4
+
+#Milk,Milk
+#LoliMilk,Loli Milk
+#HumanMilk,Human Milk
+#ElfMilk,Elf Milk
+#DwarfMilk,Dwarf Milk
+#FurryMilk,Furry Milk
+#SmallFurryMilk,Small Furry Milk
+#DragonianMilk,Dragonian Milk
+
+#Item0100100,Bodily Fluids
+#Item0100100Text,A common by-product of all races.
+#Item0100200,Disease DNA
+#Item0100200Text,A by-product that can only be obtained if you have an STD.
+
+#Item0200600,Human Pheromone
+#Item0200600Text,The Human race's characteristically strong pheromones.
+#Item0200800,Elf Mana Engine
+#Item0200800Text,The source of the powerful magical abilities and mana generation of the Elven race.
+#Item0201000,Dwarf Heart
+#Item0201000Text,The source of the powerful physical abilities and regenerative power of the Dwarven race.
+#Item0201100,Fox Furry Mammary Gland DNA
+#Item0201100Text,DNA that promotes lactation in Fox Furries.
+#Item0201200,Cat Furry Ovarian DNA
+#Item0201200Text,DNA that promotes egg ovulation in Cat Furries.
+#Item0201300,Rabbit Furry Womb DNA
+#Item0201300Text,DNA extracted from an Rabbit Furry's womb.
+#Item0201400,Sheep Furry Horn
+#Item0201400Text,Used as an ingredient in expensive medicines.
+#Item0201500,Dragon Tail Meat
+#Item0201500Text,A high-quality ingredient. Traded at a very high price.
+
+#Item0301900,Goblin Semen
+#Item0301900Text,Has the effect of making females go into heat, regardless of race.
+#Item0302200,Orc Heart
+#Item0302200Text,The source of Orcish regenerative power and good blood circulation.
+#Item0302400,Werewolf Tail
+#Item0302400Text,Soft and fluffy, it is the highest quality of fur.
+#Item0302500,Minotaur Leather
+#Item0302500Text,A top quality material that's very tough and durable. Traded at a very high price.
+
+#Item0400500,Tattoo Removal
+#Item0400500Text,Instantly removes an Elf's tattoo.
+#Item0400600,Health Recovery
+#Item0400600Text,Instantly recovers a slave's Health.
+#Item0400900,Mammary Injection
+#Item0400900Text,Instantly fills a slave's Milk.
+#Item0401000,Disease Cure
+#Item0401000Text,Instantly cures a slave or monster's STD.
+#Item0401010,Ovum Recovery
+#Item0401010Text,Resets a slave's current Birth Count to 0.
+
+#Item107Name,Gold
+#Item107Text,Gold
+#Item111Name,Achievement point
+#Item111Text,Achievement point
+#Item112Name,Human DNA
+#Item112Text,Human's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item113Name,Elf DNA
+#Item113Text,Elf's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item114Name,Dwarf DNA
+#Item114Text,Dwarf's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item115Name,Neko DNA
+#Item115Text,Neko's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item116Name,Inu DNA
+#Item116Text,Inu's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item117Name,Usagi DNA
+#Item117Text,Usagi's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item118Name,Hitsuji DNA
+#Item118Text,Hitsuji's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item119Name,Dragonian DNA
+#Item119Text,Dragonian's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item120Name,Goblin DNA
+#Item120Text,Goblin's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item121Name,Orc DNA
+#Item121Text,Orc's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item122Name,Werewolf DNA
+#Item122Text,Werewolf's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item123Name,Minotaur DNA
+#Item123Text,Minotaur's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item124Name,Salamander DNA
+#Item124Text,Salamander's DNA that can be obtained with a low probability, used for forbidden alchemy.
+#Item125Name,Origin DNA
+#Item125Text,DNA origin that can be obtained with a low probability, used to make all slaves and monsters.
+#Item126Name,Fertility medication
+#Item126Text,After using the item, be sure to get pregnant the next time you cumshot inside.
+#Item127Name,Aphrodisiac
+#Item127Text,Be sure to cumshot inside during sex for the duration after using the item.<BR>The duration is 1 day.
+#Item128Name,ViOgra
+#Item128Text,Do not take a rest after sex for the duration after using the item.<BR>The duration is 1 day.
+#Item129Name,Sensitivity 3000x
+#Item129Text,The use speed of the brothel is increased by 1.5 times and the payment price is increased by 1.5 times, for the duration after using the item.<BR>The duration is 0.5 day.(Automatically used immediately after production)
+#Item130Name,Washer
+#Item130Text,After using the item, all semen in the field is washed away. (Automatically used immediately after production)
+#Item131Name,Salamander's Scale Piece
+#Item131Text,A piece of scale that contains the energy of flame, is traded as a very expensive magic material.
+#Item132Name,Condom
+#Item132Text,Condom
+#Item133Name,Love gel
+#Item133Text,Love gel
+#Item134Name,Cosmetic potion
+#Item134Text,Cosmetic potion
+#Item135Name,Monster cosmetic potion
+#Item135Text,An item that randomly changes the appearance of a monster
+#Item136Name,Slave cosmetic potion
+#Item136Text,An item that randomly changes the appearance of a slave
+#Item137Name,Trait upgrade potion
+#Item137Text,An item that upgrades a random trait.
+
+#NielBookButton,Illustrated book
+#NielBookLabel,Illustrated book
+#NielActionButton,Produce
+#GetButton,Get
+
+#Trait_0101000100,Charm of all races
+#Trait_0101000100_Tooltip,When placing a brothel, add up to 2 to 3 times the brothel usage amount.
+#Trait_0101100000,Weak race
+#Trait_0101100000_Tooltip,When breeding while drained, the amount of health consumed increases by 1.5 times.
+#Trait_0102000000,Heat
+#Trait_0102000000_Tooltip,When the tattoo is engraved, the elf's lust rises, causing her to go into heat, Increases the conception rate by 30% only on target race engraved with tattoo.
+#Trait_0102100200,Dwarf bastards
+#Trait_0102100200_Tooltip,Elves hate dwarves, so they don't want to be in the same place, Health recovery speed reduced by 0.5 times
+#Trait_0103000000,Warrior's soul
+#Trait_0103000000_Tooltip,The Warrior's soul has blessed the dwarf, There is a certain probability that the health does not decrease during sex.
+#Trait_0103100200,Elf bastards
+#Trait_0103100200_Tooltip,Dwarves hate elves, so they don't want to be in the same place, Health recovery speed reduced by 0.5 times
+#Trait_0105000000,Additional pregnancy
+#Trait_0105000000_Tooltip,When pregnant, there is a certain probability that you can conceive one more fetus.
+#Trait_0105100000,Excessive writhing
+#Trait_0105100000_Tooltip,There is a certain probability that sex will be interrupted due to the excessive writhing of the Neko Furry's.
+#Trait_0106000000,Many Milk
+#Trait_0106000000_Tooltip,Inu furry has a body optimized for breastfeeding, After taking all the breast milk, there is a certain probability that all the breast milk will be recovered.
+#Trait_0106100000,Gluttony
+#Trait_0106100000_Tooltip,When supplying daily food, there is a chance to request one more food, It only activates once per day.
+#Trait_0107000000,Superfetation
+#Trait_0107000000_Tooltip,Usagi Furry has two wombs.<BR>During pregnancy, an additional pregnancy is possible with a certain probability during cumshot inside.<BR>Fetus gets +1.
+#Trait_0107100000,Bulimia
+#Trait_0107100000_Tooltip,There is a chance to double the food requirement when supplying daily food.
+#Trait_0108000000,Relaxed thinking
+#Trait_0108000000_Tooltip,Sheep furry has a relaxed thinking.<BR>When not drained and resting, the speed of health recovery increases by 1.5 times.
+#Trait_0108100000,Coward
+#Trait_0108100000_Tooltip,Sheep furry is a coward.<BR>If there are Inu furrys or monsters in the same place, health decrease by 1 per second
+#Trait_0109000000,Strong genes
+#Trait_0109000000_Tooltip,Dragonian takes only good genes.<BR>Only + traits among general traits can be inherited.
+#Trait_0109100100,Gene selection
+#Trait_0109100100_Tooltip,Dragonian rejects bad genes.<BR>If the monster has two or more - & 0 traits, breeding is refused.
+
+#Trait_0101200000,Ace Of Brothel
+#Trait_0101200000_Tooltip,Show off her skills as the best stripper in Brothel<BR>When placing a brothel, the brothel usage amount is added up to 5 to 10 times
+#Trait_0102200000,Iron Will
+#Trait_0102200000_Tooltip,Representing her strong will<BR>Apply half of all health consumption
+#Trait_0103200000,Steel Uterus
+#Trait_0103200000_Tooltip,Her duty as a tribal princess to bear many children is reflected<BR>If the maximum number of births is filled, the current number of births becomes 0 only once.
+#Trait_0104200000,Robbery
+#Trait_0104200000_Tooltip,Thieves loot anything, including their opponent's sperm.<BR>Immediately when pregnancy fails with cumshot outside and cumshot inside get into sex
+#Trait_0107200000,Gambler's bad luck
+#Trait_0107200000_Tooltip,She is so addicted to gambling that she even bets whether she is pregnant or not.<BR>She always makes that bet only when she's pregnant, but her bad luck goes beyond limits,<BR>When she's pregnant she necessarily gets extra pregnant when she cumshot inside(fetus +1).
+#Trait_0109200000,Genetic engineering
+#Trait_0109200000_Tooltip,A master of genetic engineering, she can manipulate genes with her mana.<BR>One of the general traits of the fetus is upgraded by one level.
+
+#Trait_0201000000,Humiliation
+#Trait_0201000000_Tooltip,When they prematurly cum outside, there is a chance to immediately start sex again.
+#Trait_0201100100,Sadism
+#Trait_0201100100_Tooltip,When breeding with drained slaves, the consumption of health is increased by 1.5 times.
+#Trait_0202000100,Over excitement
+#Trait_0202000100_Tooltip,Cumshot is accelerated because of so much excitement, sex time is increased by 0.5 times.
+#Trait_0202100000,Semen tank
+#Trait_0202100000_Tooltip,When breeding, health consumption increases by 1.5 times.
+#Trait_0203000000,Grooming
+#Trait_0203000000_Tooltip,Werewolves gently lick their opponents. When not breeding with a slave, health is recovered by 1 per second.
+#Trait_0203100000,Violent copulation
+#Trait_0203100000_Tooltip,Werewolves over-excited during mating have a chance to deal half the target's Slave's health as damage.
+#Trait_0204000100,Give birth! god's child
+#Trait_0204000100_Tooltip,In the past, minotaurs were worshiped as gods. When a slave pregnant a minotaur, there is a low probability that one of the negative traits will change into a positive one.
+#Trait_0204100100,Miscarriage
+#Trait_0204100100_Tooltip,The minotaur's cock is difficult for a slave to accept. Breeding while a slave is pregnant leads to a low probability of miscarriage of the fetus.
+
+#Trait_93_Name,Conception rate {0}%
+#Trait_93_Text,Conception rate {0}%
+#Trait_94_Name,Growth time {0}s
+#Trait_94_Text,Baby Growth time {0}s
+#Trait_95_Name,Maintenance Cost {0}
+#Trait_95_Text,Daily Maintenance Cost {0}
+#Trait_96_Name,Max health {0}
+#Trait_96_Text,Max health {0}
+#Trait_97_Name,Max birth count {0}
+#Trait_97_Text,Max birth count {0}
+#Trait_98_Name,Multiple pregnancy {0}
+#Trait_98_Text,Number of fetuses that can be conceived at one time {0}
+#Trait_99_Name,Breeding time {0}s
+#Trait_99_Text,Breeding time {0}s
+#Trait_100_Name,Slave's health consumption during breeding {0}
+#Trait_100_Text,Slave's health consumption during breeding {0}
+#Trait_101_Name,Prejudice
+#Trait_101_Text,Contrary to popular belief, Salamanders do not touch weak opponents.<BR>With a certain probability, it refuses to breed with drained slaves.
+#Trait_102_Name,Pride
+#Trait_102_Text,Salamanders are very intelligent and have picky tastes.<BR> Will refuse to breed with the same slave more than 5 times.
+
+#RaceTraitTitle,Racial Trait
+#TraitTitle,Trait
+
+#Difficulty,SELECT DIFFICULTY
+#Difficulty0,EASY
+#Difficulty1,NORMAL
+#Difficulty2,HARD
+#Difficulty3,MASTER
+
+#Resource,Resource
+#Facility,Facility
+#Ground,Ground
+#Underground,Underground
+
+#UpgradeTab0,Slave
+#UpgradeTab1,Monster
+#UpgradeTab2,Resources
+#UpgradeTab3,Facility
+#UpgradeTab4,Ground
+#UpgradeTab5,Underground
+
+#UpgradeMarketSlotSlave1,Add Market Slave Slot
+#UpgradeMarketSlotSlave2,Add Market Slave Slot
+#UpgradeMarketElf,Add Elf Slaves To Market 
+#UpgradeMarketDwarf,Add Dwarf Slaves To Market 
+#UpgradeMarketFurry,Add Furry Slaves To Market 
+#UpgradeMarketSmallFurry,Add Small Furry Slaves To Market 
+#UpgradeMarketDragonian,Add Dragonian Slaves To Market 
+#UpgradeMarketSlotMonster1,Add Market Monster Slot
+#UpgradeMarketSlotMonster2,Add Market Monster Slot
+#UpgradeMarketOrc,Add Orc Monsters To Market 
+#UpgradeMarketWerewolf,Add Werewolf Monsters To Market 
+#UpgradeMarketMinotaur,Add Minotaur Monsters To Market 
+
+#UpgradeMaxFood1,Racial By-Product Rate Up
+#UpgradeMaxFood2,Racial By-Product Rate Up
+#UpgradeMaxFood3,Racial By-Product Rate Up
+#UpgradeMaxMana1,DNA Acquisition Rate Up
+#UpgradeMaxMana2,DNA Acquisition Rate Up
+#UpgradeMaxMana3,DNA Acquisition Rate Up
+#UpgradeAmilia1,Pixie Requirement -5
+#UpgradeAmilia2,Pixie Requirement -5
+#UpgradeAmilia3,Pixie Requirement -5
+
+#UpgradeReducedSlaveMakingTime1,Slave Time Down
+#UpgradeReducedSlaveMakingTime2,Slave Time Down
+#UpgradeReducedMonsterMakingTime1,Monster Time Down
+#UpgradeReducedMonsterMakingTime2,Monster Time Down
+#UpgradeReducedBigMonsterMakingTime1,Large Monster Time Down
+#UpgradeReducedBigMonsterMakingTime2,Large Monster Time Down
+#UpgradeReducedBigMonsterMakingTime3,Large Monster Time Down
+#UpgradeSpecialItemsCanBeCrafted,Special Items Can Be Created
+
+#UpgradeIncreaseCountOfItem1,Increase Max Condom & Love Gel Count
+#UpgradeIncreaseCountOfItem2,Increase Max Condom & Love Gel Count
+#UpgradeIncreaseCountOfItem3,Increase Max Condom & Love Gel Count
+#UpgradeDecreasePriceOfItem1,Discount Condom & Love Gel
+#UpgradeDecreasePriceOfItem2,Discount Condom & Love Gel
+#UpgradeDecreasePriceOfItem3,Discount Condom & Love Gel
+#UpgradeIncreaseCountOfPill1,Increase Max Cosmetic Potion Count
+#UpgradeIncreaseCountOfPill2,Increase Max Cosmetic Potion Count
+#UpgradeDecreasePriceOfPill1,Discount Cosmetic Potion
+#UpgradeDecreasePriceOfPill2,Discount Cosmetic Potion
+#UpgradeDecreasePriceOfPill3,Discount Cosmetic Potion
+
+#NielBookTab1,Consumable
+#NielBookTab2,Cash Item
+
+#LabelAchievement,Achievements
+#Achievement,Achievements
+#AchievementTab0,STD
+#AchievementTab1,Slave
+#AchievementTab2,Monster
+#AchievementTab3,Play
+#AchievementTab4,Facility
+#AchievementTab5,Dismantling
+#AchievementTab6,Laboratory
+#AchievementTab7,Guidance
+#AchievementTab8,Market
+#PointLabel,Achievements Points
+#PointText,{0} Point
+
+#A000001Text,<color=#0055FF>{0}</color>/{1} Birth Count
+#A000002Text,<color=#0055FF>{0}</color>/{1} Pregnancy Count
+#A000003Text,<color=#0055FF>{0}</color>/{1} Creampie Count
+#A000004Text,<color=#0055FF>{0}</color>/{1} Pull Out Count
+#A000005Text,<color=#0055FF>{0}</color>/{1} Slave Count
+#A000006Text,<color=#0055FF>{0}</color>/{1} Monster Count
+#A000007Text,<color=#0055FF>{0}</color>/{1} STD Count
+#A000008Text,<color=#0055FF>{0}</color>/{1} STD Cure Count
+#A000009Text,<color=#0055FF>{0}</color>/{1} Death Count
+#A000010Text,<color=#0055FF>{0}</color>/{1} Milking Count
+#A000011Text,<color=#0055FF>{0}</color>/{1} Growth Count
+#A000012Text,<color=#0055FF>{0}</color>/{1} Shower Count
+
+#A000013Text,<color=#0055FF>{0}</color>/{1} Rooms Built
+#A000014Text,<color=#0055FF>{0}</color>/{1} Rooms Demolished
+#A000021Text,<color=#0055FF>{0}</color>/{1} Milk Sales
+#A000022Text,<color=#0055FF>{0}</color>/{1} Glory Hole Usage
+#A000023Text,<color=#0055FF>{0}</color>/{1} Service Room Usage
+#A000024Text,<color=#0055FF>{0}</color>/{1} Bestiality Shows
+#A000025Text,<color=#0055FF>{0}</color>/{1} Birth Shows
+
+#A000026Text,<color=#0055FF>{0}</color>/{1} Dismantling Count
+#A000027Text,<color=#0055FF>{0}</color>/{1} By-Product Count
+
+#A000028Text,<color=#0055FF>{0}</color>/{1} Items Crafted
+#A000030Text,<color=#0055FF>{0}</color>/{1} Items Used
+
+#A000031Text,Achieved Altar Open
+#A000032Text,Achieved <color=#0055FF>{0}</color>/{1} soul conversions
+#A000033Text,Achieved <color=#0055FF>{0}</color>/{1} resurrection success
+#A000034Text,Achieved <color=#0055FF>{0}</color>/{1} resurrection fail
+#A000035Text,Achieved strong resurrection sequelae
+#A000036Text,Achieved resurrection sequelae
+#A000037Text,Achieved weak resurrection sequelae
+#A000038Text,Achieved perfect resurrection
+#A000039Text,Achieved <color=#0055FF>{0}</color>/{1} ability transfers
+
+#A000040Text,Achieved <color=#0055FF>{0}</color>/{1} purchases
+#A000041Text,Achieved <color=#0055FF>{0}</color>/{1} sales
+#A000042Text,Achieved <color=#0055FF>{0}</color>/{1} item sales
+
+#A000047Text,Achieved over <color=#0055FF>{0}</color>/{1} gold for the first time
+#A000048Text,Achieved minus gold for the first time
+#A000049Text,Achieved <color=#0055FF>{0}</color>/{1} daily gold consumption
+#A000050Text,Reach <color=#0055FF>{0}</color>/{1} minutes of play time
+
+#A000052Text,Achieved <color=#0055FF>{0}</color>/{1} stages of depravity at first.
+#A000053Text,Achieved <color=#0055FF>{0}</color>/{1} time in 1 stages of depravity.
+#A000054Text,Achieved <color=#0055FF>{0}</color>/{1} time in 2 stages of depravity.
+#A000055Text,Achieved <color=#0055FF>{0}</color>/{1} time in 3 stages of depravity.
+#A000056Text,Achieved <color=#0055FF>{0}</color>/{1} time in 4 stages of depravity.
+#A000057Text,Achieved <color=#0055FF>{0}</color>/{1} time in 5 stages of depravity.
+#A000058Text,Achieved <color=#0055FF>{0}</color>/{1} growth count
+#A000059Text,<color=#0055FF>{0}</color>/{1} VIP Room Usage
+#A000060Text,<color=#0055FF>{0}</color>/{1} VVIP Room Usage
+#A000061Text,<color=#0055FF>{0}</color>/{1} Pixies Created
+#A000062Text,<color=#0055FF>{0}</color>/{1} Crafting Count
+#A000063Text,<color=#0055FF>{0}</color>/{1} Client Guidance
+#A000064Text,Used <color=#0055FF>{0}</color>/{1} Condoms & Love Gels
+#A000065Text,Bought <color=#0055FF>{0}</color>/{1} Cosmetic Potions
+#A000066Text,Unlock Dismantling
+#A000067Text,Unlock The Laboratory
+#A000068Text,Unlock The Brothel
+#A000069Text,Flora Favor <color=#0055FF>{0}</color>/{1}
+#A000070Text,Noel Favor <color=#0055FF>{0}</color>/{1}
+#A000071Text,Sena & Lena Favor <color=#0055FF>{0}</color>/{1}
+#A000072Text,Amilia Favor <color=#0055FF>{0}</color>/{1}
+
+#SmallFurrySlave,Small Furry Slave
+#Horse,Horse
+#SellToMarket,Can be sold or dismantled.
+
+// 0.8
+
+#Hotkeys,HOTKEYS
+#Hotkey1,Move Up
+#Hotkey2,Move Left
+#Hotkey3,Move Down
+#Hotkey4,Move Right
+#Hotkey5,Pause & Play
+#Hotkey6,Speed
+#Hotkey7,Achievement
+#Hotkey8,Upgrade
+#Hotkey9,Inventory
+#Hotkey10,Construction
+#Hotkey11,Unit
+#Hotkey12,Amilia
+#Hotkey13,Flora
+#Hotkey14,Noel
+#Hotkey15,Sena & Lena
+#Hotkey16,Change Estate
+#DragonianSlave,Dragonian Slave
+
+// 0.9
+
+#TraitListTitle,Trait selection
+#None,None
+#CommissionLook,Appearance settings
+#CommissionTrait,Traits settings
+#CommissionRaceTraitTitle,Race Trait settings
+#CommissionRaceTrait1,RaceTrait1
+#CommissionRaceTrait2,RaceTrait2
+#CommissionTraitTitle,Trait settings
+#CommissionTrait1,Trait1
+#CommissionTrait2,Trait2
+#CommissionTrait3,Trait3
+#CommissionTrait4,Trait4
+#CommissionButton,Request
+#BigMonster,Big monster
+#Appearance_PenisHair,Penis Hair
+#Appearance_BodyHair,Body Hair
+#Capture,Capture Success
+#CommissionPrice,Time {0}day <sprite index=1> {1}
+#BeingCommissioned,Order in progress
+
+#ByProduct,By-Product
+
+#LabelFather,Father
+#LabelMother,Mother
+#HealthLabel,Health
+#ExhaustionLabel,Exhaustion
+#DepravationLabel,Depravation
+#Depravity,Depravity
+#DepravationLevelFormat,Stage {0}
+
+#TypeFormat,{0} TYPE
+
+#IsPregnant,Pregnant
+
+#NoneName,Nameless
+
+#Upgrade,Upgrade
+#Build,Build
+#Unit,Unit
+
+#VersionError,Invalid version.
+
+#Reputation,Reputation
+
+#VoiceType,Voice
+
+#CannotInTutorial,Not available in tutorial.
+
+#IsPayable,Payable
+
+#MarketRateEventText,The market rate of the selected variety will be fixed for one day.<BR><color=#E07369>50%</color> at purchase, <color=#63E057>150%</color> at sale.
+
+#PixyIsWaiting,Return Room Full
+#PixyExists,Pixy is already attached.
+
+#Chain,Chain
+#Chain0,Off
+#Chain1,On
+#ChainText,Chain can only be broken when they are corrupted.
+#Clothes,Clothes
+#Clothes0,Off
+#Clothes1,On
+
+#IsCompleted,Completion
+#IsWorking,Working
+#Production,Production
+
+#MarketRateSellingPrice,Selling Price
+#MarketRateBuyingPrice,Buying Price
+#MarketRateColorDayFormat,Time Remaining: {0} Days
+
+#Customize,CUSTOMIZE
+
+#Event_1,{0} Shortage
+#Event_1_Text,There's a shortage of {0} in the market.<BR>The price is fixed at 120% for {1:0} day.
+
+#Event_2,{0} Oversaturation
+#Event_2_Text,There are too many {0} on the market.<BR>The price is fixed at 80% for {1:0} days.
+#Event_3,Best deals
+#Event_3_Text,Best deals
+#Event_37,Are you working?
+#Event_37_Text,Amelia is suspicious of you working.<BR>You cannot purchase monsters and slaves for {0:0.0} days.
+#Event_38,For freedom
+#Event_38_Text,{0} Escaped from the Brothel.<BR>Reputation Decrease: -{1}
+#Event_43,Sensitivity 3000x
+#Event_43_Text,The use speed of the brothel is increased by 1.5 times and the payment price is increased by 1.5 times, for the duration after using the item.<BR>The duration is 0.5 day.
+#Event_44,Dispicable Minions
+#Event_44_Text,Fleur's dismantling dolls are malfunctioning.<BR>Failed to get by-product.
+#Event_45,Clogged Gears!
+#Event_45_Text,Fleur got overworked.<BR>Dismantling is unavailable for {0:0} days.
+#Event_46,Accidents During Experiments
+#Event_46_Text,Noel made a weighing mistake.<BR>Failed to get item.
+
+#Event_47,Noel On Drugs
+#Event_47_Text,Noel fell into drugs during the experiment.<BR>Lab is unavailable for {0:0} days.
+#Event_48,I was generous.
+#Event_48_Text,Amilia has prepared a special product for you.<BR>A Human slave can be purchased for 300 Gold.
+#Event_49,Not enough Brothel Girls
+#Event_49_Text,Rumors are spreading that the brothel isn't equipped with a variety of facilities.<BR>For {0} days, the brothel's reputation rises more slowly.
+#Event_50,Shortage of stock
+#Event_50_Text,The market has run out of goods.<BR>No purchases for {0} days.
+
+#CountOfCondomToBuyFormat,Condom <color=#63E057>{0}</color>
+#CountOfLoveGelToBuyFormat,Love Gel <color=#63E057>{0}</color>å€‹
+
+#BuyText,Do you want to buy?
+
+#Cient,Client
+#Abortion,Abortion
+
+#PreferenceFellatio,Prefer Glory Hole - Fellatio
+#PreferencePussy,Glory Hole - Pussy
+#PreferenceAnal,Glory Hole - Anal
+#PreferencePaizuri,Prefer Paizuri
+#PreferenceVip,Prefer VIP Room
+#PreferenceVvip,Prefer VVIP Room
+
+#Maintenance,Maintenance -{0}
+
+#Setting,Setting
+#Apply,Apply
+
+#Condom,Condom
+#CondomText,A tool to prevent STD in Slaves.
+#LoveGel,LoveGel
+#LoveGelText,A tool to shorten client intercourse time.
+#Pixy,Pixie
+#Applied,Applied
+#Unapplied,Unapplied
+
+#PixyLabel,Pixie Detail Options
+#PixyHealth,Health Management
+#PixyBirth,Delivery
+#PixyBaby,Baby Transfer
+#PixyMilk,Milking
+#PixyDead,Corpse Disposal
+#PixyShowFirst,Prioritize Birth Show
+
+#ClientCondomLabel,Client Condom Options
+#ClientLoveGelLabel,Client Love Gel Options
+#Client0Name,White Client
+#Client0Text,STD: <color=#E07369>5%</color><BR>Specialized traits: <color=#63E057>Conception rate +5%</color>, <color=#E07369>Growth time +5</color>
+#Client1Text,STD: <color=#E07369>10%</color><BR>Specialized traits: <color=#63E057>Growth time -5</color>, <color=#E07369>Maintenance Cost +5</color>
+#Client2Name,Blue Client
+#Client2Text,STD: <color=#E07369>10%</color><BR>Specialized traits: <color=#63E057>Maintenance Cost -5</color>, <color=#E07369>Growth time +5</color>
+#Client3Name,Purple Client 
+#Client4Text,STD: <color=#63E057>0%</color><BR>Specialized traits: <color=#63E057>All Positive Traits</color>
+
+#Buy,Buy
+#AutoBuy,Automatic Purchase
+
+#MinotaurText,A huge, violent monster from ancient times. Now extinct.
+#SalamanderText,A giant ancient monster, the pinnacle of all living things. Now extinct.
+
+#ManagementEstate,Management<BR>Estate
+#PrivateEstate,Private<BR>Estate
+
+#MoveToManagementEstate,Move To Management Estate
+#MoveToPrivateEstate,Move To Private Estate
+
+#EstateFormat,{0} Estate
+#MoveToEstateFormat,{0} Move To Estate
+#Player,Player
+#PlayerText,Player character
+#Management,Management
+
+#PayText,Payment period.<BR><color=#AEFC9B>Click</color> to toggle the payment list.
+
+// CG
+
+#SceneSlow,S
+#SceneFast,F
+#SceneUp,U
+#SceneDown,D
+#SceneLeft,L
+#SceneRight,R
+#SceneBoth,A
+#SceneInside,I
+#SceneOutside,O
+#CumshotCount,Cumshot Count
+#ClearSemen,Clear Semen
+
+#IsSaving,Saving.
+#IsLoading,Loading.
+
+#ReportDay,Day {0} Report
+#ReportLabelSlaveList,Slave Maintenance
+#ReportLabelMonsterList,Monster Maintenance
+#ReportLabelProfitAndLossList,List of profit and loss
+#ReportLabelRevenues,Revenues
+#ReportLabelExpenses,Expenses
+#ReportLabelProfit,Profit
+#ReportLabelLoss,Loss
+#ReportLabelProfitAndLoss,Profit & Loss
+#ReportLabelProfitAndLossChart,Profit & Loss Chart
+#ReportCount,x{0}
+#ReportPurchaseList,Purchase Cost List
+#ReportLabelBorrow,Institutional Loan
+#ReportInterestRate,Interest Rate
+#ReportBorrow,Loan
+#ReportLoanPeriod,Loan Period
+#ReportBorrowedGold,Principal
+#ReportLoanPayment,Loan Payment
+#ReportRepay,Repay
+#ReportLabelCount,Count
+#ReportLabelItem,Special Product
+#ReportLabelItem1,Regular Sale
+#ReportLabelItem2,Limited Sale
+#ReportLabelLoanCount,Loan Count
+#ReportFormatCount,{0}
+#ReportFormatDay,{0} Day
+#ReportLabelGold,Gold
+
+#Likeability,Likeability
+
+#L001Text,Buy Humans
+#L002Text,Buy Elves
+#L003Text,Buy Dwarves
+#L004Text,Buy Furries
+#L005Text,Buy Small Furries
+#L006Text,Buy Dragonians
+#L007Text,Sell Goblins
+#L008Text,Sell Orcs
+#L009Text,Sell Werewolves
+#L010Text,Sell Minotaurs
+#L011Text,Sell Salamanders
+#L012Text,Market Manipulation
+
+#L101Text,Dismantle Humans
+#L102Text,Dismantle Elves
+#L103Text,Dismantle Dwarves
+#L104Text,Dismantle Furries
+#L105Text,Dismantle Small Furries
+#L106Text,Dismantle Dragonians
+#L107Text,Dismantle Goblins
+#L108Text,Dismantle Orcs
+#L109Text,Dismantle Werewolves
+#L110Text,Dismantle Minotaurs
+#L111Text,Dismantle Salamanders
+#L112Text,Create Pixies
+
+#L201Text,Produce Tattoo Removal
+#L202Text,Produce Health Recovery
+#L203Text,Produce Mammary Injection
+#L204Text,Produce Disease Cure
+#L205Text,Produce Ovum Recovery
+#L206Text,Produce Fertility Medication
+#L207Text,Produce Aphrodisiac
+#L208Text,Produce Viâ—‹gra
+#L209Text,Produce Sensitivity 3000x
+#L210Text,Produce Washer
+#L211Text,Produce Slave
+#L212Text,Produce Monster
+#L213Text,Produce Big Monster
+
+#L301Text,Consume Condom
+#L302Text,Consume love gel
+#L303Text,Buy cosmetic potion
+#L304Text,Guide client
+#L305Text,Achieve reputation level 1
+#L306Text,Achieve reputation level 2
+#L307Text,Achieve reputation level 3
+#L308Text,Achieve reputation level 4
+#L309Text,Achieve reputation level 5
+#L310Text,Achieve reputation level 6
+#L311Text,Achieve reputation level 7
+
+// ToolTip
+
+#FloraUnlock,Flora will be unlocked on the 11th day.
+#NielUnlock,Noel will be unlocked on the 16th day.
+#SenaLenaUnlock,Sena & Lena will be unlocked on the 21st day.
+
+#AmiliaAction1Text,<color=#AEFC9B>Click</color> to open the market rate event window.
+#AmiliaAction2Text,<color=#AEFC9B>Drag and drop</color> slaves or monsters here to sell.<BR><color=#AEFC9B>Click</color> to open the market rate window.
+#AmiliaAction3Text,<color=#AEFC9B>Click</color> to bring in new slaves and monsters.
+#FloraAction1Text,<color=#AEFC9B>Pixie is being made.<BR>{0} / {1}
+#FloraAction2Text,<color=#AEFC9B>Drag and drop</color> slaves or monsters here to dismantle.
+#NielAction1Text,<color=#AEFC9B>Drag and drop</color> DNA here to customize slaves and monsters.<BR><color=#AEFC9B>Click</color> to open the customization window.
+#NielAction2Text,<color=#AEFC9B>Click</color> here to open the illustrated book window that combines items.
+
+#TestText00,ã“ã®ãƒœã‚¿ãƒ³ã§NPCãŸã¡ã®ã‚·ãƒ¼ãƒ³ã‚’ç¢ºèªã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
+#DemoText00,You cannot earn achievement points in the trial version.
+
+#MarketRateColorText1,Slaves with <color=#{0}>{1}</color> hair are said to be valuable.
+#MarketRateColorText2,Slaves with <color=#{0}>{1}</color> eyes are said to be valuable.
+#MarketRateColorText3,Monsters with <color=#{0}>{1}</color> skin are said to be valuable.
+#MarketRateColorText4,Monsters with <color=#{0}>{1}</color> eyes are said to be valuable.
+#MarketRateColorText5, Market Rate + 20%
+
+// Story Text
+
+#StoryText00100,At the end of our usual deal, Amelia made me a strange offer.
+#StoryText00150,The broker suggested we work together.
+#StoryText00200,If I worked with Amelia, the top slaver in the country... it was an risky opportunity to make a lot of money.
+#StoryText00300,I accepted her offer immediatly.
+#StoryText00350,Because I want to make slaves become pregnant over and over again...
+
+#StoryText00400,Well... I have to go through some tests before I leave the job to you.
+#StoryText00500,Let's see if you can make a profit for our organization.
+#StoryText00600,I'll leave this territory to you for the time being.
+#StoryText00700,After <color=#FFFF00>'50 days'</color>, if you are proffitable, you can keep it.
+#StoryText00750,Don't worry. I'll help you at first.
+#StoryText00760,Let's start by breeding and selling monsters first.
+
+#StoryText00800,Build a cage for monsters and slaves.
+#StoryText00900,Build a Slave Cage.
+#StoryText01000,Build a Monster Cage.
+
+#StoryText01100,Well, I'll gift you some slaves and monsters.
+#StoryText01200,Try not to kill them off.
+#StoryText01300,Slaves and monsters have different looks and races.
+#StoryText01400,Also, each race has different Traits. Try to breed the best slaves possible. 
+#StoryText01500,<color=#FFFF00>'Human'</color> girls have few magic properties, but they make good brothel whores.<BR>Specialized traits: <color=#63E057>Conception rate +5%</color>, <color=#63E057>Growth time -5</color>, <color=#E07369>Max Health -15</color>, <color=#E07369>Pregnancy possibility -3</color>
+#StoryText01600,<color=#FFFF00>'Goblin'</color> is a basic race, but it has a short mating time.<BR>Specialized traits: <color=#63E057>Growth time -5</color>, <color=#E07369>Conception rate -5%</color>
+
+#StoryText02550,Now let me tell you how to <color=#FFFF00>'breed'</color>.
+#StoryText02600,Build a breeding room.
+#StoryText02700,Move the monster to the breeding room.
+#StoryText02800,Move the slave to the breeding room.
+#StoryText02900,Well, there he goes. He should take it from here. Once she gets pregnant, make full use of the offspring.
+
+#StoryText03000,Now let's talk about <color=#FFFF00>'selling'</color> and <color=#FFFF00>'buying'</color>.
+#StoryText03100,If you want to <color=#FFFF00>'sell'</color> slaves or monsters, bring them to the carriage.
+
+#StoryText03200,You want to buy a new product?
+#StoryText03300,One moment...
+#StoryText03400,I work every day during the <color=#FFFF00>'day'</color> hours as a legitimate <color=#FFFF00>'slave'</color> trader.
+#StoryText03500,If you want to purchase <color=#FFFF00>'Monsters'</color>, wait until <color=#FFFF00>'Night'</color>.
+#StoryText03600,Because trading monsters is frowned upon.
+#StoryText03700,If you want to buy a monster or a slave, just <color=#FFFF00>'drag & drop'</color> the product and drop it in the right place.
+#StoryText03800,You can quickly sell and purchase products using the <color=#FFFF00>'quick menu'</color>.
+
+#StoryText25200,From now on, I will make sure to receive <color=#FFFF00>'reimbursement'</color> once every <color=#FFFF00>'5 days'</color>.
+#StoryText25300,Rather than money... <color=#FFFF00>'Monsters'</color> would be better.
+#StoryText25400,I'll let you give monsters instead of other services.
+#StoryText25500,Amilia receives a <color=#FFFF00>'monster reward once every 5 days'</color>.
+#StoryText25600,The monsters to be rewarded will be informed by Amilia in advance, and on the 5th day, you can <color=#FFFF00>'pay by selling the monster'</color> to Amilia.
+#StoryText25700,If you <color=#FFFF00>'fail even once in Payment'</color>, it will be <color=#FF0000>'Game Over'</color>. You are not able to pay until the 5th day. 
+
+#StoryText05000,Then, run this breeding farm well until <color=#FFFF00>'50 days'</color>.
+#StoryText05100,If you earn lots of profit, we'll let you keep this place.
+#StoryText05200,You can also enjoy watching the slaves breeding many children.
+#StoryText05300,If the profit is huge, you can take over the organization.
+#StoryText05350,Oh, and lastly, don't mind the basement, as it was built by the previous owner and doesn't mean much. (~Please wait for the DLC~). 
+#StoryText05400,Then do your best, co-worker â™¥
+
+#StoryText06500,The slaves can <color=#FFFF00>'infect monsters'</color> and <color=#FF0000>'eventually die'</color>.
+#StoryText06600,Please note that <color=#FFFF00>'infected monsters'</color> gain <color=#FF0000>'Erectile Dysfunction'</color> and can no longer reproduce.
+
+#StoryText12200,Let me introduce you to <color=#FFFF00>'Business Partner'</color> here.
+#StoryText12300,Her name is <color=#C27AEB>Flora</color>. She'll be in charge of 'dismantling' monsters and slaves.
+#StoryText12400,Nice to meet you~
+#StoryText12500,If you <color=#FFFF00>'dismantle monsters and slaves'</color>, you'll get <color=#FFFF00>'by-products'</color>.
+#StoryText12600,<color=#FFFF00>'By-products'</color> can be <color=#FFFF00>'sold or used in combinations of items'</color>.
+#StoryText12700,Then, please call her whenever you need her.
+#StoryText12800,Please call anytime.
+
+#StoryText12900,Hello
+#StoryText13000,I'll show you how to use our 'dismantler'.
+#StoryText13100,<color=#FFFF00>'Drag & Drop monsters and slaves'</color> here and they will be <color=#FFFF00>'Dismantled'</color> automatically.
+#StoryText13200,Once the dismantling is complete, you can automatically obtain rare <color=#FFFF00>'By-Products'</color>.
+#StoryText13210,If you do a lot of dismantling, a special <color=#FFFF00>'Pixie'</color> will be created.
+#StoryText13220,Pixies are good helpers who <color=#FFFF00>'automatically manage slaves'</color>.
+#StoryText13300,Grinding up creatures makes me so wet, so Hurry up and make a lot of pixies!
+
+#StoryText13400,Let me introduce you to <color=#FFFF00>'Business Partner'</color> here.
+#StoryText13500,Her name is <color=#4DF4E4>Noel</color>. She'll be responsible for the synthesis of potions and elixors.
+#StoryText13600,Hi~
+#StoryText13700,<color=#FFFF00>'She can make various items by combining by-products.'</color>
+#StoryText14000,Make lots of usefull potions.
+#StoryText14100,Call me whenever you need~
+
+#StoryText14200,Hi~ Darling.
+#StoryText14300,Then I'll show you how to use my services~
+#StoryText14400,Click on <color=#FFFF00>'Cauldron'</color> to see what items can be made~
+#StoryText14500,<color=#FFFF00>'Potions can be synthesized~'</color>
+#StoryText14600,<color=#FFFF00>'Once the production is complete, items will be acquired automatically~'</color>
+#StoryText14800,Let's get experimenting~
+
+#StoryText14900,You can use achievement points and upgrade NPC capabilities.
+#StoryText15000,There is no order of upgrades, you can choose and upgrade to whatever you want.
+
+#StoryText16400,A new aboveground facility has been added.
+#StoryText16600,From now on, we can provide new services to our clients.
+
+#StoryText16700,Well, it's the final deadline.
+#StoryText16800,Let's take a look at your profit.
+#StoryText16900,Hmm... I think I misunderstood you.
+#StoryText17000,Too bad...
+#StoryText17100,You failed.
+#StoryText17200,Then goodbye...
+#StoryText17300,Not bad.
+#StoryText17400,You succeeded.
+#StoryText17500,Let's do well in the future,
+#StoryText17600,Co-workerâ™¥
+#StoryText17700,You can now enjoy infinite mode.
+#StoryText17800,There might be more Updates later, but thanks for playing!
+
+#StoryText04500,Looks like the slave is <color=#FFFF00>'pregnant'</color>. Wonderfull. Slaves love being impregnated against thier will, you know.
+#StoryText04600,Build a DeliveryRoom to give <color=#FFFF00>'birth'</color> to new girls and monsters.
+#StoryText04700,Please raise this baby well, because it has value only when he is an adult.
+#StoryText04800,Build a deliveryroom.
+#StoryText04900,Move the slave to the deliveryroom and give birth.
+
+#StoryText06700,The slave gave birth to a baby.
+#StoryText06710,Please move the spawn to the cage.
+#StoryText06800,You can <color=#FFFF00>'pump breast milk'</color> from  slaves who have gotten pregnant and given birth.
+#StoryText06900,Let's see how to pump breast milk.
+#StoryText07000,Build a milking room.
+#StoryText07100,Move the slave to the milking room.
+#StoryText07200,Breast milk is produced after a slave gives birth. Thier milk will slowly increase from henceforth. Bigger tits make more milk.
+#StoryText07300,Click on the milk tank to collect a milk bottle.
+#StoryText09500,Click on the milk tank behind the milking room get the item.
+#StoryText09600,The milk tank stores a large amount of milk, so click on the milk tank to get milk as needed. Be sure to make lots of girls pregnant and pump lots of milk~ 
+
+#StoryText09700,Slaves have <color=#FFFF00>'health'</color> states, which <color=#FFFF00>'decrease when breeding with monsters'</color> and <color=#FF0000>'die when they reach 0'</color>.
+#StoryText09800,Better to <color=#FFFF00>'restore health'</color> by letting the slaves rest in the <color=#FFFF00>'cage'</color> before they become useless.
+
+#StoryText25800,I received the delivery.
+#StoryText25900,Well done. In return, I'll reward you.
+#StoryText26000,Select the <color=#FFFF00>'slave product to be on special'</color>.
+#StoryText26100,For the selected product, I will receive <color=#FFFF00>'150% when buying'</color> and <color=#FFFF00>'50% when selling'</color>.
+#StoryText26200,<color=#FFFF00>'During the day'</color> We will sell the product.
+#StoryText26300,Here's the next goal.
+#StoryText26400,See you in five days.
+
+#StoryText27300,Thanks to your hard work, a <color=#FFFF00>'Pixie'</color> was created.
+#StoryText27400,You can take care of the slaves more comfortably through the use of Pixies~
+#StoryText27500,If you <color=#FFFF00>'dismantle more than a certain number of creatures, a Pixie is created'</color>. You can <color=#FFFF00>'take care of slaves automatically via Pixies'</color>.
+#StoryText27600,Pixies fly freely around the field and perform the following functions.
+#StoryText27900,When a slave's health falls below a certain level, it is moved to a nearby slave cage to restore health and return to its original position.
+#StoryText28000,When a slave becomes pregnant, it is moved to a nearby delivery room to give birth and return to its original position.
+#StoryText28050,Move babies in the delivery room to an empty cage.
+#StoryText28100,When the slave's milk is full, it is moved to a nearby milking room and returned to the original position after milking.
+#StoryText28200,One pixy can only handle one task at a time, and as slaves and monsters increase, more pixies may be needed.
+
+#StoryText29100,Oh, did you get something interesting?
+#StoryText29200,You can use it <color=#FFFF00>'to create monster or slave with random status'</color>
+#StoryText29250,Appearance and traits are random. Instead, I'll make it better than the existing products.
+#StoryText29300,If you put your DNA here, I'll make it whatever you want, whether it's a slave or a monster~
+#StoryText29400,You can get <color=#FFFF00>'special DNA items'</color> by <color=#FFFF00>'dismantling'</color> them. If you take it to Niel, you can create slaves or monsters with random traits.
+#StoryText29500,There are <color=#FFFF00>'monsters that can only be obtained through DNA'</color>, so please take advantage of them.
+
+#StoryText29600,Darling~, what you ordered is complete~
+#StoryText29700,Here you go~
+
+#StoryText29800,Oh, long time no see?
+#StoryText29900,You can make anything with this~
+#StoryText30000,Even if they were <color=#FFFF00>'extinct in ancient times'</color>~
+#StoryText30100,If you use <color=#FFFF00>'origin DNA'</color>, you can create amy slaves or monsters, and you can also create <color=#FFFF00>'large monsters that were extinct in ancient times'</color>.
+#StoryText30200,<color=#FFFF00>'Large monsters'</color>  <color=#FFFF00>'Require a dedicated cage and dedicated breeding room'</color> and <color=#FFFF00>'Breeding'</color> for <color=#FFFF00>'It takes a lot of work, such as 'need a special slave with Multiple Pregnancy of three'</color>. That's why the <color=#FFFF00>'value is high'</color>.
+
+#StoryText30400,This is a elf slave sold to our company.
+#StoryText30600,This is a furry slave sold to our company.
+#StoryText30700,This is a small furry slave sold to our company.
+#StoryText30800,This is a dragonian slave sold to our company.
+#StoryText30900,I hope you enjoy breeding her.
+
+#StoryText31000,A new product has been added.
+#StoryText31100,It was difficult to secure a source.
+#StoryText31200,<color=#FFFF00>'Elves'</color> are a magical minority and have excellent physical strength and do not get along with dwarves. They value virginity and consider it shameful to lose it.<BR>Specialized traits: <color=#63E057>Maintenance Cost -5</color>, <color=#63E057>Max health +15</color>, <color=#E07369>Conception rate -5%</color>, <color=#E07369>Growth time +5</color>, <color=#E07369>Multiple pregnancy -1</color>
+#StoryText31300,It was pretty hard to find where they were hiding because they dig so deeply underground.
+#StoryText31400,<color=#FFFF00>'Dwarves'</color> are a minority tribe with excellent physical abilities and recover quickly. They don't get along very well with the elves. They think it's a virtue to be prolific.<BR>Specialized traits: <color=#63E057>Conception rate +5%</color>, <color=#63E057>Max birth count +3</color>, <color=#63E057>Multiple pregnancy +1</color>, <color=#E07369>Growth time +5</color>, <color=#E07369>Maintenance Cost +5</color>
+#StoryText31500,It was pretty hard to catch them running around in the woods.
+#StoryText31600,<color=#FFFF00>'Furries'</color> are a multi-ethnic race. They are physically weak and optimized to spread their genes.<BR>Specialized traits: <color=#63E057>Conception rate +10%(Common)</color>, <color=#63E057>Multiple pregnancy +1(Neko)</color>, <color=#63E057>Growth time -10(Inu)</color>, <color=#E07369>Max health -30(Common)</color>, <color=#E07369>Growth time +10(Neko)</color>, <color=#E07369>Maintenance Cost +10(Inu)</color>
+#StoryText31700,It was quite difficult to catch these hiding in the woods.
+#StoryText31800,<color=#FFFF00>'Small furries'</color> are a multi-ethnic race. They are physically weak and optimized to spread their genes.<BR>Specialized traits: <color=#63E057>Conception rate +10%(Common)</color>, <color=#63E057>Max birth count +6(Usago)</color>, <color=#63E057>Maintenance Cost -10(Hitsuji)</color>, <color=#E07369>Max health -30(Common)</color>, <color=#E07369>Growth time +10(Hitsuji)</color>, <color=#E07369>Maintenance Cost +10(Usago)</color>
+#StoryText31900,These were really hard to catch. 
+#StoryText32000,<color=#FFFF00>'Dragonian'</color> is a Strong race and gives priority to positive traits.<BR>Specialized traits: <color=#63E057>Conception rate +10%</color>, <color=#63E057>Growth time -10</color>, <color=#63E057>Max health +30</color>, <color=#63E057>Max birth count +6</color>, <color=#E07369>Maintenance Cost +10</color>, <color=#E07369>Multiple pregnancy -1</color>
+#StoryText32100,It's hard to catch monsters this big.
+#StoryText32200,<color=#FFFF00>'Orcs'</color> are slow to breed and their young grow faster.<BR>Specialized traits: <color=#63E057>Conception rate +5%</color>, <color=#E07369>Breeding time +5</color>
+#StoryText32300,They are rough, so please be careful while handling them.
+#StoryText32400,<color=#FFFF00>'Werewolf's'</color> mating rate is very fast and their children grow very fast.<BR>Specialized traits: <color=#63E057>Breeding time -5</color>, <color=#E07369>Slave's health consumption during breeding +0.05</color>
+
+#StoryText09900,The slave has <color=#FF0000>â€™diedâ€™</color>.
+#StoryText10000,The slave <color=#FFFF00>'dies and the room decays over time'</color>.
+#StoryText10100,Then other slaves and monsters in the room may get <color=#FF0000>'venereal disease'</color>.
+#StoryText10200,Let's build a morgue and burry the slave.
+#StoryText10300,Build a morgue.
+#StoryText10400,Move the slave to the morgue. 
+#StoryText10500,When a room is contaminated, click the clean room icon to clean the room.
+#StoryText10600,If there is no space in the morgue, you can <color=#FFFF00>'burial the body through Amilia'</color>.<BR>However, in this case, <color=#FFFF00>'additional cost'</color> is incurred.
+
+#StoryText32500,Depravity of slave has risen a little, right?
+#StoryText32600,The higher the depravity, the more obedient you will fulfill your duty.
+#StoryText32700,You may sell depraved slaves to get a higher price.
+#StoryText32800,Good luck with that.
+#StoryText32900,Slaves have the status of depravity.
+#StoryText33000,<color=#FFFF00>'Depravity'</color> can be raised through <color=#FFFF00>'Sex, Childbirth, and Milking'</color>. The higher the depravity, the <color=#FFFF00>'Slave Price'</color> and <color=#FFFF00>'The price increases when services are provided at the brothel'</color>, and the <color=#FFFF00>'Trait are upgraded'</color>.
+#StoryText33100,Also, the higher the depravity, the less likely the slave will escape from the brothel. 
+
+#StoryText33200,Slaves have various stats.
+#StoryText33300,Monsters have various stats.
+#StoryText33400,They have race trait that are fixed for each race.
+#StoryText33500,Their general trait is the trait that grows their stats. They can be handed over through mating and can also hand over traits that are not related to them.
+#StoryText33600,If you use this well, you can breed strong offspring.
+
+#StoryText07400,The baby girl has grown up.
+#StoryText07500,She can now get pregnant and give birth. However, let's grow again.
+#StoryText07600,Breastfeeding will help the girl grow up.
+#StoryText07700,The baby is now a loli body shape. If you drink more breast milk, she will grow into an adult body shape.
+#StoryText07750,Drag and drop breast milk to her.
+#StoryText07800,<color=#FFFF00>'Loli girls'</color> have the <color=#FFFF00>'same womb as adults and can be pregnant and give birth'</color>, but <color=#FF0000>'recovery of health is slow'</color>.
+
+#StoryText33700,<color=#FFFF00>'Breast milk'</color> has many uses, it can help your <color=#FFFF00>'child grow or develop new traits'</color>.
+#StoryText33800,Let's try the breast milk obtained this time.
+#StoryText33900,Feeding slaves with breast milk has a chance to reveal new traits or evolve existing traits.
+
+#StoryText34000,Breastfeed one of your slaves.
+#StoryText34100,The traits of slaves have been upgraded, in this way you can correct the traits of slaves.
+#StoryText34200,Well, go ahead and breed a race of super-slaves already.
+
+#StoryText34300,You're doing well, so time to give you more responsibility. Our biggest monster yet.
+#StoryText34400,It is a <color=#FFFF00>'restored DNA of an ancient monster that was extinct'</color>.
+#StoryText34500,First, leave this <color=#FFFF00>'goblin'</color> to <color=#C27AEB>'Flora'</color> to <color=#FFFF00>'dismantle it'</color>.
+#StoryText34600,Did you get the <color=#FFFF00>'DNA'</color>?
+#StoryText34700,If you give the <color=#FFFF00>'DNA'</color> to <color=#4DF4E4>'Noel'</color>, you can <color=#FFFF00>'remake the extinct monster'</color>.
+#StoryText34800,<color=#FFFF00>'origin DNA'</color> is <color=#FFFF00>'an item that comes out with a certain probability'</color> when dismantling a monster or slave.
+#StoryText34900,You can use this to craft <color=#FFFF00>'all monsters and slaves as well as monsters that were destroyed in ancient times'</color>.
+
+#StoryText35000,Have you acquired a large monster?
+#StoryText35100,Large monsters require <color=#FFFF00>'dedicated cages'</color> and <color=#FFFF00>'dedicated breeding rooms'</color>.
+#StoryText35200,And you need <color=#FFFF00>'special slaves'</color> to breed them.
+#StoryText35300,I'll give you a special slave as a gift.
+#StoryText35400,This slave could carry the child of a large monster.
+#StoryText35500,Slaves with <color=#FFFF00>'this ability of 3'</color> can conceive and <color=#FFFF00>'give birth to large monsters'</color>..
+
+#StoryText35600,Do you know about <color=#FFFF00>'market rate'</color>?
+#StoryText35700,<color=#FFFF00>'The market rate changes every night/day.'</color> Good luck with that.
+
+#StoryText35800,You earn <color=#FFFF00>'Achievement points when performing certain actions'</color>.
+#StoryText35810,You can <color=#FFFF00>'Use achievement points'</color> to <color=#FFFF00>'Upgrade NPC's abilities'</color>.
+#StoryText35820,There is no order of upgrades, you can <color=#FFFF00>'choose what you want to upgrade'</color>.
+
+#StoryText35900,Various events occur depending on the player's behavior.
+#StoryText36000,Since most events interfere with play, play carefully to prevent them from occurring.
+
+#StoryText36100,It's been a long time since I showed my ability.
+#StoryText36200,let me take it~
+
+#StoryText36300,A Slave got a <color=#FF0000>'STD'</color>.
+#StoryText36400,Let's take care of it because if you leave it as it is, the venereal disease will spread and the value of your products will decrease.
+#StoryText36500,<color=#FFFF00>'Stock condoms to prevent STDs.'</color>.
+
+#StoryText36600,How about expanding your business from now on?
+#StoryText36700,Let's remodel the empty above-ground space and use it as a <color=#FFFF00>'brothel'</color>.
+#StoryText36800,You can now receive clients.
+#StoryText36900,Before that, let me introduce you to <color=#FFFF00>'the employees of the business'</color>.
+#StoryText37000,Sisters <color=#FFD158>'Sena'</color> and <color=#FFD158>'Lena'</color> are going to take charge of <color=#FFFF00>'the brothel's information and sales'</color>.
+#StoryText37100,Good morning!
+#StoryText37200,Good morning...
+#StoryText37300,Then, let's start a brothel business together with them.
+#StoryText37400,Come here. Let's get started.
+
+#StoryText37500,Well, I'll educate you.
+#StoryText37600,Me and my sister look at the counter here and will guide you to the <color=#FFFF00>'facilities that clients want'</color>!
+#StoryText37700,If you want to operate efficiently, I think it would be better to have <color=#FFFF00>'various facilities...'</color>
+#StoryText37800,We also sell <color=#FFFF00>'condoms'</color>!
+#StoryText37900,Just in case, we can <color=#FFFF00>'prevent venereal diseases in clients...'</color>
+#StoryText38000,They also sell <color=#FFFF00>'love gel'</color>!
+#StoryText38100,It softens the insertion and <color=#FFFF00>'reduces the client's usage time...'</color>
+#StoryText38200,We sell weird sex stuff, too!
+#StoryText38300,<color=#FFFF00>'Cosmetic potion'</color> can <color=#FFFF00>'change the appearance of slaves or monsters at will...'</color>
+#StoryText38400,Now, try building a facility.
+
+#StoryText38500,It's our first client!
+#StoryText38600,You have to put a slave in place so she can spread her legs for the clients.
+#StoryText38700,We'll take care of slave's health, but it's not under our jurisdiction if slaves run away...
+#StoryText38800,So if you want to minimize the damage, you'd better deploy <color=#FFFF00>'slaves whose depravity has been maximized...'</color>
+
+#StoryText38900,If clients use our girls, it will improve our <color=#FFFF00>'reputation'</color>. The more reputable you are, <color=#FFFF00>'the more facilities and clients you will have!'</color>
+#StoryText39000,So watch your reputation. Clean up, too!
+#StoryText39100,That's it for our explanation, and We're looking forward to working with you!
+#StoryText39200,Let's keep in touch...
+
+#StoryText39300,You can <color=#FFFF00>'change the appearance of slaves and monsters at will'</color> if you feed the Cosmetic potion.
+#StoryText39400,The appearance corrected with the cosmetic potion is <color=#FFFF00>'inherited to the next generation'</color>.
+
+#StoryText39800,The reputation has improved a little...
+#StoryText39900,I'll make it possible to use the new facility with the service...
+#StoryText40000,From now on, we can offer new services to clients who like bestiality.
+#StoryText40100,Added a facility to bestiality show and receive money.
+#StoryText40200,In the case of a horse, it is <color=#FFFF00>'treated as a large monster'</color>, and <color=#FFFF00>'the same conditions as a large monster'</color> are required for a horse's pregnancy.
+#StoryText40300,Senna and Lena will automatically sell the animal offspring for a fixed price.
+
+#StoryText40400,Your reputation has improved a little!
+#StoryText40500,I'll arrange for a new service.
+#StoryText40600,You can now serve clients who like to watch birth!
+#StoryText40700,A room where you can show birth and receive money has been added.
+#StoryText40800,<color=#FFFF00>'You cannot give birth to monsters, only humans and animals can give birth'</color> in the aboveground facilities.
+
+#StoryText40900,Your reputation has improved a little...
+#StoryText41000,Here's a new facility and service...
+#StoryText41100,You can offer advanced services.
+
+#StoryText41200,Your reputation has gone up a lot!
+#StoryText41300,Here's a new facility and service...
+#StoryText41400,VVIP rooms offer top-of-the-line service!
+#StoryText41500,The VVIP room is a <color=#FFFF00>'special facility'</color> where <color=#FFFF00>'only one'</color> can be built.
+#StoryText41600,It's a rich man-only facility where <color=#FFFF00>'complete-depravity slaves, and ones who don't have venereal diseases, can be deployed'</color>.
+#StoryText41700,Up to <color=#FFFF00>'two slaves'</color> can be assigned, and the girls will dress up as maids.
+
+#StoryText41800,A private estate is now available. You can enter your personal estate by pressing the Estate button.
+#StoryText41900,You can build facilities and place slaves and monsters in your personal estate just like the current facility.
+#StoryText42000,Resource consumption does not occur in private estates, and clients do not come even if you build a brothel facility.
+#StoryText42100,Instead, there is a player character, which can be used to create your illegitimate child, and bring them back to the existing estate.
+
+#StoryText42200,Before we get to work, let's decide on a 'name' for the estate.
+#StoryText42300,Please don't give it a foolish name?
+#StoryText42400,Well, don't keep me waiting...
+
+#StoryText42500,You're working hard.
+#StoryText42600,I'll give you a slave as a gift.
+#StoryText42700,This is a fallen Dwarf princesses.
+#StoryText42800,She was expensive to aquire, but I will give her to you.
+#StoryText42900,Be sure to fill her with lots of babies.
+
+#StoryText43000,This girl is a stripper I cherished, but she's in too much debt.
+#StoryText43100,She could never make enough money to repay me with dancing...
+#StoryText43200,But if I give her to you, she can pay back her debt with her womb.
+#StoryText43300,Make her birth lots of babies and I'll be satisfied.
+
+#StoryText43400,It's been a long time since I've seen a hard worker like you.
+#StoryText43500,You know, I have needs too...
+#StoryText43600,You may now service me sexually.
+
+#StoryText43700,Thanks to you, my work has been successful.
+#StoryText43800,As a gift, I will give you a new slave.
+#StoryText43900,She's a pureblood elf and the daughter of the tribe leader. She was my childhood friend, but... <BR>Now I can get my revenge on her for allowing them to banish me.
+#StoryText44000,My farries kidnapped her on the night before she was to be married.
+#StoryText44100,Amilia usually get any girls I aquire, but not her. I want her to become a pathetic breeding sow!
+#StoryText44200,Make her birth lots of Monster children. Put her in the brothel and make her birth more elf daughters, then make them serve in the brothel together!
+#StoryText44300,...~Ah!... *Ahem.* ...I got excited. Well, let's get back to it.
+
+#StoryText44400,Seeing my old childhood friend bare many monsters and children has gotten me horny. 
+#StoryText44500,Have sex with me.
+
+#StoryText44600,It's the due date~
+#StoryText44700,If you <color=#FFFF00>'Sell'</color> the monster you have decided to pay me back within today, <color=#FFFF00>'Payment is complete'</color>.
+#StoryText44800,Of course, it's an amortization, so I won't give you the sale price."
+
+#StoryText44900,Thank you for playing.<BR>That's it for the trial version.<BR>Please look forward to the official version.
+
+#StoryText45000,Darling, thanks to you, my research has progressed.
+#StoryText45100,I'll give you a fresh slave that you can breed.
+#StoryText45200,He's my lab assistant.
+#StoryText45300,Her research results were not very good and she has a lot of debt.
+#StoryText45400,You helped me with my research so you can have her.
+#StoryText45500,Please make lots of cute babies inside her womb~
+
+#StoryText45600,Darling, thanks to you, my research has progressed immeasurably.
+#StoryText45700,I hope you'll be satisfied with my body.
+#StoryText45800,Now you can enjoy sex with me.
+
+#StoryText45900,Thanks to you, business is going well!
+#StoryText46000,I'll give you a present in return.
+#StoryText46100,She's a thief who was caught trying to steal from the brothel.
+#StoryText46200,I could have disposed of her, but I'll give her to you enstead.
+#StoryText46300,She can pay me back with by spreading her legs in the very place she tried to steal from!
+
+
+#StoryText46400,Business seems to be going well.
+#StoryText46500,I'll give you a new slave in return.
+#StoryText46600,She was a gambling attendant for us, but she was fixing the numbers in her own favor. 
+#StoryText46700,Now, she will use her womb to repay us.
+#StoryText46800,Make sure she regrets it. 
+
+
+#StoryText46900,What a successful business!
+#StoryText47000,All these slaves getting fucked day after day... We want to get fucked too!
+#StoryText47100,Now you can fuck Sena and Lena.
+
+#StoryText47200,Slaves whose Depravity has reached Max will be upgraded to <color=#FFFF00>'all traits at random'</color>.
+
+#StoryText47300,When a slave reaches the maximum number of births, she becomes <color=#FFFF00>'sterile'</color>.
+#StoryText47400,Slaves who become infertile can't <color=#FFFF00>'conceive, give birth, or produce breast milk'</color>.
+#StoryText47500,Slaves who are infertile can be sold before she becomes sterile, or by using the <color=#FFFF00>'egg recovery potion'</color> to <color=#FFFF00>'reduce the number of births to 0'</color> because <color=#FFFF00>'low birth numbers are more valuable'</color>.
+
+#StoryText47600,Oh my... You went above and beyond. You conquered this brothel and then some. 
+#StoryText47700,There is no doubt you deserve to own this place. 
+#StoryText47800,What's more, all of us, too. Let's make lots of cute slaves together.
+#StoryText47900,Maybe... someday... ~ you can use our wombs to make the highest quality slaves ~
+
+#StoryText48000,There is a likability gauge for NPCs.
+#StoryText48100,There are conditions that can fill the NPC's likability and can be checked by pressing the heart icon.
+#StoryText48200,You can see H scenes of each NPC if you fill all the NPC's likability.
+
+#StoryText48300,If you finish the game, your personal territory will always open.
+
+#MilkText,Breast milk extracted from unknown.<BR>It is characterized by its complex taste.<BR>Used for the growth of the body, 15% chance that one of the following characteristics will appear.<BR><color=#63E057>Conception rate +5%<BR>Growth time -5s<BR>Maintenance Cost -5<BR>Max health +15<BR>Max birth count +3<BR>Multiple pregnancy +1</color>
+#LoliMilkText,Breast milk extracted from Loli.<BR>It is characterized by its its immature taste.<BR>Used for the growth of the body.
+#HumanMilkText,Breast milk extracted from human.<BR>It is characterized by its light taste.<BR>Used for the growth of the body, 15% chance that one of the following characteristics will appear.<BR><color=#63E057>Conception rate +5%<BR>Growth time -5s</color>
+#ElfMilkText,Breast milk extracted from elf.<BR>It is characterized by its lush smell.<BR>Used for the growth of the body, 15% chance that one of the following characteristics will appear.<BR><color=#63E057>Maintenance Cost -5<BR>Max health +15</color>
+#DwarfMilkText,Breast milk extracted from dwarf.<BR>It is characterized by its greasyness.<BR>Used for the growth of the body, 15% chance that one of the following characteristics will appear.<BR><color=#63E057>Conception rate +5%<BR>Max birth count +3</color>
+#FurryMilkText,Breast milk extracted from furry.<BR>It is characterized by the taste of grains.<BR>Used for the growth of the body, 15% chance that one of the following characteristics will appear.<BR><color=#63E057>Conception rate +10%<BR>Multiple pregnancy +1<BR>Growth time -10s</color>
+#SmallFurryMilkText,Breast milk extracted from small furry.<BR>It is characterized by its fresh taste.<BR>Used for the growth of the body, 15% chance that one of the following characteristics will appear.<BR><color=#63E057>Conception rate +10%<BR>Max birth count +6<BR>Maintenance Cost -10</color>
+#DragonianMilkText,Breast milk extracted from dragonian.<BR>It is characterized by its fresh taste.<BR>Used for the growth of the body, 15% chance that one of the following characteristics will appear.<BR><color=#63E057>Conception rate +10%<BR>Growth time -10s<BR>Max health +20<BR>Max birth count +6</color>
+
+#Cumshot,Cumshot
+#Sex,Sex
+#CumshotInside,Inside
+#CumshotOutside,Outside
+#Tattoo,Tattoo
+#Idle,Idle
+#Rest,Rest
+#Drained,Rest(Exhaustion)
+#Birth1,Birth1
+#Birth2,Birth2
+#Birth3,Birth3
+#Birth4,Birth4
+#Birth5,Birth5
+#Birth6,Birth1(Exhaustion)
+#Birth7,Birth2(Exhaustion)
+#Birth8,Birth3(Exhaustion)
+#Birth9,Birth4(Exhaustion)
+#Birth10,Birth5(Exhaustion)
+#Maid,Maid
+#Pose,Pose
+#Harem,HaremCG
+#Harem2,HaremCG2
+#SemenBukakke,Semen(Hair)
+#SemenOutside,Semen(Out)
+#SemenInside,Semen(In)
+
+#DepravedFace,Depraved Face  
+#DepravedFace0,Off
+#DepravedFace1,On
+#DepravedFaceText,Depraved face can only be changed when she is depraved.
+
+#PixySell,Automatic Sale of Children
+
+#StoryText48400,Slave's children, whose options are checked <color=#FFFF00>'Automatic Sale of Children'</color>, are automatically sold by pixies.
+
+#WarningGameOver2,You didn't pay back your debts.
+#HaremClearText,<color=#AEFC9B>Clear Condition</color><BR>50,000 gold and 100% likeability of all NPCs <color=#FFFF00>until 51 days before</color>
+#AmiliaSceneClearText,<color=#AEFC9B>Clear Condition</color><BR>100% Amilia Likeability
+#FloraSceneClearText,<color=#AEFC9B>Clear Condition</color><BR>100% Flora Likeability
+#NielSceneClearText,<color=#AEFC9B>Clear Condition</color><BR>100% Niel Likeability
+#SenaLenaSceneClearText,<color=#AEFC9B>Clear Condition</color><BR>100% Sena&Lena Likeability
+#AmiliaSceneText,Amilia Scene
+#FloraSceneText,Flora Scene
+#NielSceneText,Noel Scene
+#SenaLenaSceneText,Sena&Lena Scene
+
+#StoryText48500,In Infinite mode, there are no events that interfere with play, so you can enjoy it comfortably.
+
+#LowPatchVersion,The patch version may be low and some images may not display well. (Requirement {0} or later)
+
+#PreferenceBestiality,Bestiality
+#PreferenceBirth,Birth
+
+#No_Sell_Favorite,You cannot sell favorites.
+#No_Dismantle_Favorite,You cannot Dismantle favorites.
+
+#Skip_Tutorial,Do you want to skip the tutorial?<BR> You can turn it on/off again with the option.
+#LogMessage_Skip_Tutorial,Tutorial was skipped.
+
+#Use,Use
+
+#Hotkey17,Zoom In
+#Hotkey18,Zoom Out
+
+#Continuous,Continuous
+#ChangeAll,Change All
+#Looks,Looks
+#Dead,Dead
+
+v2.0.0.0
+
+#SenaLenaAction1Text,<color=#AEFC9B>Click</color> here to purchase the Cosmetic potion.
+#SenaLenaAction2Text,<color=#AEFC9B>Click</color> here to purchase condoms and love gels.
+#BarbaraAction1Text,You can create an upgrade room by filling the room upgrade quota.
+#BarbaraAction2Text,<color=#AEFC9B>Click</color> here to upgrade your room.
+
+#Hotkey19,Barbara
+
+#SelectNpc,You can choose a partner to help you. Each partner has a different ability. 
+
+#FloraInformation,Flora is in charge of 'dismantling' slaves and monsters. She can create a pixie who can automatically care for slaves.
+#NielInformation,Noel can make potions using by-products. She can create slaves, monsters, or giant monsters using DNA.
+#SenaLenaInformation,Sena and Lena can open brothel and are in charge of running it. They sell special items that can only be sold at brothel.
+#BarbaraInformation,Barbara can upgrade rooms and make room attachments. She can create a device that instantly makes a slave deprived.
+
+#BarbaraSceneText,Barbara Scene
+#AchievementTab9,Blacksmith
+#PixyCapsule,Capsule
+
+#Anna,Anna
+#Nero,Nero
+#Sena,Sena
+#Lena,Lena
+#Rune,Rune
+#Barbara,Barbara
+
+#Tentacle1,Tentacle
+#Tentacle1,Tentacle Breeding
+#Tentacle2,Tentacle Birth
+#NpcIdle,Idle
+#NpcSex,Sex
+#NpcBirth,Birth
+#Birth,Birth
+#BarbaraSceneClearText,<color=#AEFC9B>Clear Condition</color><BR>100% Barbara Likeability
+
+#TentacleRoom,Tentacle Room
+#Capsule,Capsule
+#TentacleBreeding,Tentacle Breeding
+#Resurrection,Resurrection
+
+#BuyPrivateEstate,Private estate that the player can possess. You can buy it for <sprite index=1>50,000.
+
+#Room_ConceptionRate,Conception rate
+#Room_SexTime,Sex Time
+#Room_Maintenance,Maintenance
+#Room_Cumshot1,Cumshot inside
+#Room_Cumshot2,Cumshot outside
+#Room_DecreasingHealthOnSex,Slave's health consumed during sex
+#Room_Fee,Add fee
+#Room_Trait,Add 1 fetus trait
+#Room_GrowthTime,Growth time
+#Room_VenerealDisease,If the product in the cage is infected with a STD, it is automatically treated (1 day required time).
+#Room_Health,Restoring health per second.
+
+#UpgradeBarbara1,Reduce upgrade and reupgrade costs.
+#UpgradeBarbara2,Reduce upgrade and reupgrade costs.
+#UpgradeBarbara3,Add room upgrade stat stock.
+#UpgradeBarbara4,Add room upgrade stat stock.
+#UpgradeBarbara5,Reduces the number of enhancements required when crafting capsule.
+#UpgradeBarbara6,Reduces the number of enhancements required when crafting capsule.
+#UpgradeBarbara7,Reduces the number of enhancements required when crafting capsule.
+
+#A000073Text,Achieved blacksmith opening 
+#A000074Text,Achieved <color=#0055FF>{0}</color>/{1} upgrade
+#A000075Text,Achieved <color=#0055FF>{0}</color>/{1} reupgrade
+#A000076Text,Achieved <color=#0055FF>{0}</color>/{1} capsule crafting times
+#A000077Text,Achieved <color=#0055FF>{0}</color>/{1} Barbara favor.
+
+#L401Text,Upgrading the Underground Room
+#L402Text,Reupgrading the Underground Room
+#L403Text,Upgrading the Ground Room
+#L404Text,Reupgrading the Ground Room
+#L405Text,Capsule Production
+#L406Text,Corrupt human slaves with capsule
+#L407Text,Corrupt elf slaves with capsule
+#L408Text,Corrupt dwarf slaves with capsule
+#L409Text,Corrupt furry slaves with capsule
+#L410Text,Corrupt small furry slaves with capsule
+#L411Text,Corrupt dragonian slaves with capsule
+
+#Cannot_Upgraded,Unable to upgrade.
+#Downgrade,Downgrade
+#No_Mana,Not enough essence.
+#No_TentacleEgg,Not enough tentacle eggs.
+#Need_Soul,Requires {0} essence.
+#No_Scene,You can't see the scene in her depraved state.
+
+#Brainwash,Brainwash
+#Milking,Milking
+
+#Event_51,Oops, my hand slipped
+#Event_51_Text,Barbara fucked up.<BR>Room upgrade failed.
+#Event_52,Slump
+#Event_52_Text,Barbara is in a slump.<BR>Blacksmith is unavailable for {0} days.
+#Event_53,Not this!
+#Event_53_Text,Rune requires a specific essence.<BR>For 1 day, receive only the essence from {1} actions of {0} species.
+#Event_54,Runaway girl
+#Event_54_Text,Rune mysterious errand.<BR>The altar cannot be used for {0} days.
+
+#Item138Name,Tentacle Eggs
+#Item138Text,Tentacle Eggs
+
+#Trait_103_Name,God bless
+#Trait_103_Text,When Anna become drained or pregnant, she has a 20% chance to be blessed and restored.<BR>Receive one of the following blessings: full health recovery, full breast milk recovery, current birth count reset, or STD cure.
+
+#Trait_104_Name,Brand of Devil
+#Trait_104_Text,Optimized for giving birth to creatures of the demon realm. When mating with tentacles, mental is not consumed and continuous mating is possible.
+
+#Trait_105_Name,SUGOI DEKAI
+#Trait_105_Text,What charming, gaint tits.<BR>Generally, having a breast size one size up from largest breast size will increase your milk supply.
+
+#Trait_106_Name,Erotomania
+#Trait_106_Text,She is an depraved elf who was kicked out of her tribe for being slutty.<BR>She can have continuous sex without breaks.
+
+#Trait_107_Name,Drug addict
+#Trait_107_Text,She is always on drugs.<BR>Drugs in her blood restores her health, unless some other effect is hurting her.
+
+#Trait_108_Name,Fools don't catch colds
+#Trait_108_Text,She is stupid and always cheerful and full of energy.<BR>She has absolute immunity against STDs.
+
+#Trait_109_Name,Fantastic technique
+#Trait_109_Text,Her sex technique is fantastic.<BR>She fucks twice as fast in the Brothel.
+
+#Trait_110_Name,Masochist
+#Trait_110_Text,She is a masochist and enjoys suffering.<BR>Corruption rate increase is doubled.
+
+#StoryText48600,Let me introduce you to my <color=#FFFF00>'Business Partner'</color> here.
+#StoryText48700,Her name is <color=#FFFF00>'Barbara'</color>. She'll be in charge of <color=#FFFF00>'room upgrades'</color>.
+#StoryText48800,Hi.
+#StoryText48900,She can <color=#FFFF00>'upgrade room to add different traits.'</color>.
+#StoryText49000,Then, please call her whenever you need her.
+#StoryText49100,Call me if you need.
+
+#StoryText49200,Hi.
+#StoryText49300,I'll teach you <color=#FFFF00>'how to upgrade a room'</color>.
+#StoryText49400,<color=#FFFF00>'Click here'</color>.
+#StoryText49500,<color=#FFFF00>'Choose the room you want to upgrade'</color>.
+#StoryText49600,Then, <color=#FFFF00>'the trait will be added to the room'</color>.
+#StoryText49700,The more you <color=#FFFF00>'upgrade the room'</color>, the more I'll add a better <color=#FFFF00>'machine that automatically increases the corruption of slaves'</color>.
+#StoryText49800,Well then, good luck in the future, colleague.
+
+#StoryText49900,<color=#FFFF00>'Choose the room'</color> you want to upgrade.
+#StoryText50000,The room's <color=#FFFF00>'trait'</color> is attached randomly, and you can increase the <color=#FFFF00>'number of trait points up to three'</color> through <color=#FFFF00>'Barbara upgrade'</color>.
+
+#StoryText50100,You can <color=#FFFF00>'newly adjust your stats through re-upgrade'</color> and <color=#FFFF00>'upgrade and re-upgrade consumes gold'</color>. Through <color=#FFFF00>'Barbara's Upgrades'</color>, <color=#FFFF00>'you can reduce gold cost'</color>.
+
+#StoryText50200,I finished the upgrade.
+#StoryText50300,With this, you can <color=#FFFF00>'easily corrupt slaves'</color>.
+#StoryText50400,Take it and install it where you want.
+
+#StoryText50500,<color=#FFFF00>'Install the torture chamber wherever you want'</color>.
+#StoryText50600,If you <color=#FFFF00>'place a slave in the torture room'</color>, <color=#FFFF00>'the slave's corruption will increase over time'</color>.
+
+#StoryText50700,Thanks to you, business is good.
+#StoryText50800,I'll do you a service.
+#StoryText50900,Amilia gave it to me, but it's useless.
+#StoryText51000,I'll just give it to you. Use it well.
+
+#StoryText51100,Oh, the profit was very good this time.
+#StoryText51200,I'll give you something in return.
+#StoryText51300,I picked it up on the way.
+#StoryText51400,Use it.
+
+#StoryText51500,I've made a lot of money.
+#StoryText51600,Thank you.
+#StoryText51700,In return, I'll let you fuck me.
+
+#StoryText51800,There was a very strong smell of essence here.
+#StoryText51900,Nice to meet you, I'm Rune.
+#StoryText52000,Are you... the owner of this place? 
+#StoryText52100,Let's make a pack.
+#StoryText52200,I've lend you my dark powers. In return, grant me <color=#FFFF00>'essence'</color>.
+
+#StoryText52300,The mysterious girl Rune is from another world.
+#StoryText52400,She <color=#FFFF00>'gains essence through sex, milking, and childbirth in the manor'</color>, and can use the essence to <color=#FFFF00>'activiate special abilities'</color>.
+
+#StoryText52500,Now, let me introduce you to just a few of my abilities.
+#StoryText52600,I can <color=#FFFF00>'resurrect the dead'</color>.
+#StoryText52700,Observe.
+
+#StoryText52800,No corpse?
+#StoryText52900,If you don't have one, I'll have to make one. Don't worry about where it's from.
+#StoryText53000,<color=#FFFF00>'Choose a corpse'</color> and <color=#FFFF00>'resurrect it'</color>.
+#StoryText53100,<color=#FFFF00>'The amount of essence required for each race is different'</color>.
+#StoryText53200,You can resurrect a corpse this way.
+
+#StoryText53300,I don't need this anymore.
+
+#StoryText53400,Alright, time for my next ability.
+#StoryText53500,Let me introduce you to a  very cute pet from our world. It's a <color=#FFFF00>'Tentacle'</color>.
+
+#StoryText53600,This needs a special room.
+#StoryText53700,The right dimentions and atmosphere...
+#StoryText53800,Now <color=#FFFF00>'you need eggs to breed tentacles'</color>. I'll give you some now.
+#StoryText53900,You can <color=#FFFF00>'grow tentacles in the room'</color> with this.
+#StoryText54000,Let's breed.
+#StoryText54100,We got cute such tentacles! Tentacles are really, really cute and useful creatures.
+#StoryText54200,If it had tentacles, it would be <color=#FFFF00>'very easy to collect essence'</color>.
+#StoryText54300,So I hope you make a lot.
+
+#StoryText54400,To create a tentacle, <color=#FFFF00>'3 tentacle eggs'</color> and <color=#FFFF00>'several essences'</color> are required.
+
+#StoryText54500,Now I will teach you <color=#FFFF00>'how to make a tentacle egg'</color>.
+#StoryText54600,Try <color=#FFFF00>'place a slave on a tentacle'</color>.
+#StoryText54700,Tentacles are really all-purpose, so if you put a slave here, you can collect essence without having to <color=#FFFF00>'manage'</color> them separately.
+#StoryText54800,It's convenient because <color=#FFFF00>'sex, milking, childbirth are all handled in one place'</color>.
+#StoryText54900,<color=#FFFF00>'Pregnant Slave'</color>? Now <color=#FFFF00>'I'm going to lay eggs in tentacles'</color>.
+
+#StoryText54950,Click on the tentacles' eggs to pick them up.
+#StoryText55000,<color=#FFFF00>'The previous eggs are 1 group'</color>, now if you have <color=#FFFF00>'three of these',</color> you can <color=#FFFF00>'propagate tentacles'</color>.
+
+#StoryText55100,Tentacle eggs are really useful, they taste good, they are good for stamina, and they are also very good material.
+#StoryText55200,<color=#FFFF00>You can 'Bring in, Sell or Create Tentacles'</color>; it's up to you.
+#StoryText55300,If <color=#FFFF00>'Give me the egg back, I'll change it to essence'</color>.
+
+#StoryText55400,When a slave is placed in the tentacle room, <color=#FFFF00>'sex, milking, and childbirth are all automatic'</color>.
+#StoryText55500,Also, dlaves placed in the tentacle room<color=#FFFF00>' automatically receive care'</color>.
+
+#StoryText55600,In order to create a tentacle room, you can create a tentacle room by mixing a <color=#FFFF00>'breeding room'</color>, <color=#FFFF00>'3 tentacle eggs'</color> and <color=#FFFF00>'100 essence'</color>.
+
+#StoryText55700,Well, that's the basic idea.
+#StoryText55800,Good luck in the future.
+#StoryText55900,If you gather all the essence to me.
+#StoryText56000,Let me tell you about one of my special abilities.
+#StoryText56100,If Rune gets <color=#FFFF00>'666 essence, special changes'</color> will activate.
+
+#StoryText56200,Are you full?
+#StoryText56300,Now, it's time for me to go back to being myself.
+#StoryText56400,As promised last time, I'll tell you one of my special abilities.
+#StoryText56500,Do you have a favorite service provider among the girls here?
+#StoryText56600,I'll <color=#FFFF00>'brainwash'</color> her so she can do whatever you want.
+
+#StoryText56700,Rune can <color=#FFFF00>'brainwash an NPC'</color> by consuming <color=#FFFF00>'666 essence'</color>. The brainwashed NPC will be <color=#FFFF00>'placed in your personal territory'</color> and can <color=#FFFF00>'pregnant the player's child'</color>.
+#StoryText56800,However, for <color=#FFFF00>'brainwashing'</color>, <color=#FFFF00>'NPC favorability must be Max'</color> and the <color=#FFFF00>'Personal Territory'</color> is required.
+
+#StoryText56900,Who are you going to brainwash?
+#StoryText57000,Now you can do whatever you want.
+#StoryText57100,I don't think it will work because she doesn't like you, try making her like you.
+#StoryText57200,Trying to get a girl without a home?
+#StoryText57300,Brainwashing is not omnipotent.
+
+#StoryText57400,Where did this get from?
+#StoryText57500,It is a very good quality mana stone.
+#StoryText57600,If it's of this quality, it's probably worth more than <color=#FFFF00>'5000 gold'</color> on the market.
+#StoryText57700,I don't know where you got this from, but anything that makes money is fine.
+#StoryText57800,I will buy this mana stone for <color=#FFFF00>'5000 gold'</color> in the future.
+
+#StoryText57900,Now... it's time to make your wish come true
+#StoryText58000,What am I doing?
+#StoryText58100,I never said that <color=#FFFF00>'your wish'</color> will come true in the first place.
+#StoryText58200,You did a good job. Since you're useful, I'll take special <color=#FFFF00>'care'</color> of you.
+#StoryText58300,Let's do our best in the future, partner.
+
+#RuneEnding,Rune Ending
+#RuneClearText,<color=#AEFC9B>Clear Condition</color><BR>All NPC brainwashed, 100 tentacle rooms created, 100 tentacle eggs sold <color=#FFFF00> ?Before 51 days?</color> (Localizer Note: no idea what she's trying to say :? ) 
+
+#UpgradeSterilizationSystem,By sterilizing guests, gain the same effect as condoms and love gels. On/Off possible.
