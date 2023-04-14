@@ -14,20 +14,20 @@ Test,เทส
 #Dragonian,มังกร
 #Furry,หมาป่า
 #SmallFurry,สัตว์เล็ก
-#Goblin,Goblin
-#Orc,Orc
-#Werewolf,Werewolf
-#Minotaur,Minotaur
-#Salamander,Salamander
-#Client,Client
+#Goblin,ก๊อบลิน
+#Orc,อ็อค
+#Werewolf,มนุษย์หมาป่า
+#Minotaur,มิโนทอร์
+#Salamander,ซาลาเมนเด้อ
+#Client,ลูกค้า
 
-#Monster,Monster
-#Slave,Slave
-#Room,Room
-#Consumable,Consumable
+#Monster,มอนสเตอร์
+#Slave,ทาส
+#Room,ห้อง
+#Consumable,ไอเท็ม
 
 // Room
-#BreedingRoom,Breeding Room
+#BreedingRoom,BreedingRoom
 #FemaleSlaveCage,Slave Cage
 #SlaveCage,Slave Cage
 #Altar,Altar
@@ -65,10 +65,10 @@ Test,เทส
 
 // Room Information
 #BreedingRoomText,Facility for breeding monsters and slaves.
-#SlaveCageText,Female Slave Cage, can accommodate up to five slave.
-#MonsterCageText,Monster Cage, can accommodate up to five monsters.
+#SlaveCageText,ห้องสำหรับทาสหญิง สามารถใส่ได้ 5 คน.
+#MonsterCageText,ห้องสำหรับมอนสเตอร์ สามารถใส่ได้ 5 ตัว.
 #BackDoorText,Dangerous deal is being made.
-#DeliveryRoomText,Place pregnant slaves and give birth.
+#DeliveryRoomText,วางทาส เพื่อคลอดลูก .
 #MorgueText,Corpses placed within are sealed.
 #CarriageText,You can sell slaves or monsters.
 #GrowthCapsuleText,Device that corrects the appearance of a slave.<BR>One part of the slave's appearance can be randomly changed.
